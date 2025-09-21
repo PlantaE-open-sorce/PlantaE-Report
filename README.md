@@ -132,3 +132,33 @@
 ## [Bibliografía](bibliography.md)
 
 ## [Anexos](anexos.md)
+
+## Registro de Versiones del Informe
+
+| Version | Fecha    | Autor          | Descripción                                                                                                                                                                                                                               |
+|---------|----------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+## Student Outcome
+
+_ABET – EAC - Student Outcome 5_
+
+**Criterio:**  Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+En el siguiente cuadro se describen las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 3.
+
+| Criterio especifico                                                          | Acciones Realizadas | Conclusiones |
+| :--------------------------------------------------------------------------- | :---------------- | ----------- |
+| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia. | | |
+| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | | |
+
+
+
+
+
+
+
+
