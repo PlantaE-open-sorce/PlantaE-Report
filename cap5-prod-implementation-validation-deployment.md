@@ -128,3 +128,19 @@ A continuación, se presenta la planificación correspondiente a nuestro Sprint 
 | Sprint 1 Goal                        | Nos enfocamos en implementar la estructura principal y las funcionalidades clave de la landing page pública de PlantaE.<br />Creemos que esto aportará una percepción más sólida del producto y despertará mayor interés entre los usuarios potenciales, al comunicar de forma clara el valor y los beneficios de la plataforma.<br />Esto se confirmará cuando los visitantes puedan navegar de manera fluida por la página, comprendan fácilmente qué ofrece Restock y muestren intención de interactuar o registrarse. |
 | Sprint 1 Velocity                    | 18 puntos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Sum of Story Points                  | 18 puntos     
+
+#### 5.2.1.2 Aspect Leaders and Collaborators
+
+##### Aspect Leaders and Collaborators
+
+Durante el Sprint 1, se han definido los principales aspectos a desarrollar, correspondientes a funcionalidades específicas como la visualización de contenido, navegación fluida, adaptabilidad responsiva y gestión de autenticación de usuarios.
+
+Con el objetivo de asegurar una comunicación clara y eficiente dentro del equipo, se elaboró la siguiente matriz de liderazgo y colaboración (LACX), asignando para cada aspecto un líder responsable (L) y colaboradores de apoyo (C).
+
+| Team Member (Last Name, First Name) | GitHub Username    | Questions and Tutorial | About us | Benefits | Testimonials | Contact and Download |
+| :---------------------------------- | :----------------- | :--------------------- | :------- | :------- | :----------- | :------------------- |
+| Apaza Bocanegra, Elizabeth Noelia | Elizabeth-Apaza     | L                      | C        | C        | C            | C                    |
+| Contreras Leon, Flor De María                | FlorDeMa           | C                      | L        | C        | C            | C                    |
+| Guillen Galindo, Julio Adolfo	        | julio645         | C                      | C        | L        | C            |                      |
+| Miraval Pomalaya, Rodrigo Jesus        | RodMiraval            | C                      | C        | C        | L            | C                    |
+| Navarro Chinga, Antonio Jhair    | AntonioNavarro24 | C                      | C        | C        | C            | L                    |
