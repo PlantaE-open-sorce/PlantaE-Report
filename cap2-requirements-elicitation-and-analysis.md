@@ -1,2 +1,265 @@
 # Capítulo II: Requirements Elicitation & Analysis
 
+## 2.1. Competidores
+
+En esta sección, se presenta un análisis de los principales competidores de PlantaE, centrado en aquellos que operan con modelos de negocio digitales similares o que, aunque no sean idénticos, ofrecen productos o servicios que se superponen parcialmente con nuestra propuesta.Evaluamos tanto competidores directos, que ofrecen plataformas basadas en IoT para monitoreo de cultivos y áreas verdes, como competidores indirectos, que brindan soluciones de riego automatizado o aplicaciones de agricultura urbana más generales.
+
+Este análisis nos permitirá comprender mejor el entorno competitivo y cómo podemos diferenciarnos en el ecosistema de soluciones de agricultura urbana sostenible.
+
+1. ### AgroSmart : 
+Es una de las startups líderes en soluciones de agricultura digital. Su plataforma combina sensores IoT, imágenes satelitales e inteligencia artificial para optimizar el manejo de grandes cultivos.
+
+- **Fortalezas:** monitoreo IoT en tiempo real, predicciones climáticas y optimización avanzada del riego.
+
+- **Debilidades:** está orientada a la agricultura a gran escala y requiere alta inversión, lo que limita su accesibilidad para viveros urbanos y hogares.
+
+2. ### Netafim:
+Es una empresa pionera en riego por goteo inteligente, con sistemas que reducen significativamente el consumo de agua en cultivos.
+
+- **Fortalezas:** experiencia consolidada, sistemas de riego automatizado de alta eficiencia y sostenibilidad hídrica comprobada.
+
+- **Debilidades:** alto costo de implementación y foco en agricultores medianos y grandes, con baja personalización para usuarios urbanos.
+
+3. ### Plantix
+
+Es una aplicación móvil que utiliza inteligencia artificial para diagnosticar plagas y enfermedades en cultivos mediante fotos.
+
+- **Fortalezas:** accesibilidad desde dispositivos móviles, comunidad activa de usuarios y recomendaciones prácticas para el cuidado de plantas.
+
+- **Debilidades:** su alcance está limitado al diagnóstico de problemas y no ofrece un sistema de monitoreo IoT ni gestión hídrica.
+
+### 2.1.1. Análisis competitivo
+<table> 
+  <tr>
+    <th colspan="7"> Competitive Analysis Landscape </th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar acabo este análisis? </td>
+    <td colspan="5"> ¿Que busca comprender el analisis de PlantaE frente a competidores que ofrecen soluciones de agricultura digital e IoT, considerando factores de accesibilidad, mercado objetivo y sostenibilidad? </td>
+  </tr>
+  <tr>
+    <td colspan="5"> Este análisis busca comprender el posicionamiento de PlantaE en comparación con otras soluciones digitales e IoT para la gestión de cultivos y áreas verdes, identificando oportunidades de mejora y diferenciación frente a las necesidades de nuestros segmentos objetivos: hogares urbanos interesados en el cuidado sostenible de plantas y viveros comerciales que buscan optimizar el uso de recursos y mejorar la salud de sus cultivos. </td>
+  </tr>
+  <tr>
+    <td colspan="2"> Productos </td>
+    <td> <div align="center"> PlantaE <br> <img src="assets/logos/plantE.png" alt="plantE" width="100" height="100"> </td>
+    <td> <div align="center"> AgroSmart <br> <img src="assets/logos/AgroSmart.png" alt="AgroSmart" width="100" height="100"></div> </td>
+    <td> <div align="center"> Netafim <br> <img src="assets/logos/Netafim.png" alt="Netafim" width="100" height="100"></div> </td>
+    <td> <div align="center"> Plantix <br> <img src="assets/logos/Plantix.png" alt="Plantix" width="100" height="100"></div> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td> Plataforma accesible de monitoreo IoT en tiempo real para hogares y viveros comerciales. </td>
+    <td> Startup de agricultura digital con sensores IoT, IA y datos satelitales. </td>
+    <td> Empresa líder en riego inteligente a nivel global. </td>
+    <td> App móvil que diagnostica plagas y enfermedades con IA. </td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td> Accesible, simple y adaptable a hogares y viveros comerciales. </td>
+    <td> Alta tecnología para agricultura a gran escala. </td>
+    <td> Experiencia consolidada y eficiencia hídrica. </td>
+    <td> Uso de IA accesible desde móvil y comunidad activa. </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td> Mercado Objetivo </td>
+    <td> Hogares urbanos y viveros comerciales pequeños/medianos. </td>
+    <td> Agricultores industriales y medianos. </td>
+    <td> Agricultores medianos y grandes. </td>
+    <td> Agricultores y aficionados urbanos </td>
+  </tr>
+  <tr>
+    <td> Estrategias de Marketing </td>
+    <td> Educación digital sobre sostenibilidad, alianzas con viveros locales. </td>
+    <td> Marketing B2B, posicionamiento tecnológico. </td>
+    <td> Branding global, casos de éxito y sostenibilidad hídrica. </td>
+    <td> Estrategia digital masiva vía Google Play/App Store. </td>
+  </tr> 
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td> Productos & Servicios </td>
+    <td> Sensores IoT, web, recomendaciones personalizadas. </td>
+    <td> Sensores IoT, pronósticos climáticos, gestión avanzada. </td>
+    <td> Sistemas de riego por goteo inteligentes, software de gestión. </td>
+    <td> Diagnóstico de plagas y comunidad de soporte. </td>
+  </tr>
+  <tr>
+    <td> Precios & Costos </td>
+    <td> Accesible, modelo freemium o suscripción baja. </td>
+    <td> Alto costo, licencias SaaS premium. </td>
+    <td> Alta inversión inicial y mantenimiento. </td>
+    <td> Gratis con servicios premium. </td>
+  </tr>
+  <tr> 
+    <td>Canales de distribución (Web y/o Móvil)</td>
+    <td> Aplicación Web. </td>
+    <td> Aplicación Web y App móvil. </td>
+    <td> Equipos físicos más plataforma digital. </td>
+    <td> App móvil. </td>
+  </tr>  
+  <tr>
+    <td rowspan="4"> Análisis SWOT </td>
+    <td> Fortalezas </td>
+    <td> Accesibilidad, simplicidad de uso, enfoque en sostenibilidad urbana. </td>
+    <td> Tecnología avanzada, IA y datos satelitales. </td>
+    <td> Experiencia consolidada, reducción comprobada de consumo de agua. </td>
+    <td> Uso de IA en diagnóstico, comunidad digital activa. </td>
+  </tr>
+  <tr>
+    <td> Debilidades </td>
+    <td> Escala inicial limitada, baja madurez tecnológica frente a competidores. </td>
+    <td> Costos elevados, poco enfoque en usuarios pequeños. </td>
+    <td> Alto costo, poca personalización para usuarios urbanos. </td>
+    <td> No ofrece gestión hídrica ni monitoreo IoT. </td>
+  </tr>
+  <tr>
+    <td> Oportunidades </td>
+    <td> Creciente demanda de soluciones sostenibles, apoyo a viveros urbanos. </td>
+    <td> Expansión en mercados emergentes. </td>
+    <td> Creciente necesidad de eficiencia hídrica. </td>
+    <td> Integración con soluciones de riego y monitoreo urbano. </td>
+  </tr>
+  <tr>
+    <td> Amenazas </td>
+    <td> Entrada de grandes competidores al segmento urbano, barreras de adopción tecnológica. </td>
+    <td> Saturación de mercado y alta inversión necesaria para usuarios pequeños. </td>
+    <td> Nuevas startups más ágiles y accesibles. </td>
+    <td> Dependencia de la precisión de IA y limitación del modelo freemium. </td>
+  </tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+Para enfrentar a la competencia y posicionarse de manera sólida en el ecosistema de soluciones sostenibles, **PlantaE implementará estrategias enfocadas en sus principales ventajas competitivas** y en la explotación de oportunidades poco atendidas por otras iniciativas. Entre las principales tácticas preliminares destacan:
+
+**Estrategia de diferenciación sostenible :**
+- La plataforma digital de PlantaE facilitará la conexión entre ciudadanos, municipalidades, ONGs y empresas, mediante herramientas enfocadas en la regeneración de áreas verdes y el monitoreo comunitario. Se contempla, por ejemplo, el desarrollo progresivo de funcionalidades como reportes de impacto ambiental en tiempo real y mapas interactivos de proyectos verdes, diferenciándonos de competidores que se centran únicamente en el sector agrícola o de riego.
+
+**Alianzas estratégicas multiactor:**
+- PlantaE priorizará la construcción de convenios con municipalidades, viveros urbanos y organizaciones comunitarias. Estas alianzas permitirán fortalecer la confianza en la plataforma, garantizar acceso a insumos sostenibles y generar proyectos colaborativos que refuercen el sentido de pertenencia ciudadana.
+
+**Campañas digitales con enfoque social y ambiental:**
+- Las campañas en redes sociales serán clave para sensibilizar sobre la importancia del cuidado de áreas verdes urbanas. Se priorizarán contenidos educativos, testimonios de voluntarios y casos de éxito en la transformación de espacios públicos, reforzando así la conexión emocional entre los usuarios y su entorno.
+
+**Captación y fidelización de comunidades:**
+- La plataforma incluirá herramientas que permitan a los ciudadanos participar en proyectos de reforestación, limpieza y mantenimiento, mientras que ONGs y empresas podrán gestionar sus iniciativas desde un panel especializado. Se prevé también la implementación de incentivos no monetarios, como reconocimientos digitales o certificaciones de impacto ambiental.
+
+**Gestión de riesgos y validación de proyectos:**
+- Frente a la posible desconfianza en nuevas plataformas digitales o la falta de continuidad en proyectos comunitarios, PlantaE aplicará un modelo de validación y seguimiento transparente. Cada proyecto contará con métricas claras de impacto y espacios de retroalimentación, lo que fortalecerá la confianza y garantizará la sostenibilidad a largo plazo.
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+Hola, mi nombre es [Nombre del entrevistador] y formo parte del equipo que está desarrollando PlantaE, una iniciativa que busca mejorar el cuidado de plantas y áreas verdes con ayuda de la tecnología. Nuestra idea es apoyarnos en el Internet de las Cosas (IoT), es decir, en sensores y dispositivos que recopilan datos en tiempo real sobre tus plantas —por ejemplo, la humedad del suelo o la cantidad de agua utilizada— para que el riego y el mantenimiento sean más fáciles y eficientes.
+
+Con esto queremos crear una aplicación que te brinde alertas, consejos y herramientas prácticas para ahorrar agua, cuidar mejor de las plantas y simplificar el proceso, ya sea en casa o en un vivero.
+
+**Diseño de entrevistas - Segmento 1 :**
+
+**Presentacion del proyecto y inicio de la entrevista:**
+- Para empezar, ¿puedes contarnos tu nombre y qué relación tienes con el cuidado de plantas en tu hogar?
+
+- ¿Cómo describirías tu experiencia con las plantas: las consideras un pasatiempo, una responsabilidad o parte de tu estilo de vida?
+
+- ¿Qué lugar ocupan las plantas en tu día a día (ejemplo: decoración, conexión con la naturaleza, bienestar personal)?
+
+- ¿Desde cuándo empezaste a cuidar plantas en casa y qué te motivó a hacerlo?
+
+**Preguntas:**
+
+1. ¿Dedicas un tiempo específico en la semana para cuidar tus plantas o lo haces de manera espontánea?
+
+2. ¿Qué dificultades enfrentas al cuidar tus plantas o áreas verdes?
+
+3. ¿Cómo organizas el riego y mantenimiento de tus plantas?
+
+4. ¿Has tenido problemas relacionados con el riego (por exceso, falta o uso de agua)?
+
+5. ¿Qué tanto influye el consumo de agua en tu decisión de cuidar más o menos plantas?
+
+6. ¿Alguna vez has perdido plantas por no darles el cuidado adecuado? ¿Cómo te sentiste?
+
+7. ¿Ha tenido problemas relacionados con el mantenimiento general de tus plantas (plagas, falta de tiempo, espacio)?
+
+8. ¿Usas actualmente alguna aplicación, sistema o herramienta para ayudarte en el cuidado de tus plantas?
+
+9. ¿Qué tan cómodo te sentirías usando sensores o aplicaciones para recibir alertas y recomendaciones sobre tus plantas?
+
+10. ¿Qué tan útil te resultaría una aplicación que te ayude a optimizar el riego y cuidado de tus plantas?
+
+11. ¿Qué funcionalidades te motivarían más a usar una aplicación como esta? (ejemplo: alertas de riego, consejos personalizados, ahorro de agua).
+
+12. Si tuvieras esta aplicación, ¿cómo crees que cambiaría tu experiencia actual con el cuidado de plantas en casa?
+
+13. ¿Hay algo más que te gustaría agregar sobre tu experiencia con las plantas y áreas verdes?
+
+**Diseño de entrevistas - Segmento 2 :**
+
+**Presentacion del proyecto y inicio de la entrevista:**
+
+- Para comenzar, ¿puedes presentarte y contarnos tu rol dentro del vivero o negocio de plantas?
+
+- ¿Cuál es la historia detrás del vivero? (¿Cómo empezó y qué los motivó a dedicarse a este rubro?)
+
+- ¿Qué tanto valoras la tecnología o la innovación en el manejo de riego y mantenimiento en tu negocio?
+
+**Preguntas:**
+
+1. ¿Qué retos enfrenta en la gestión del riego y mantenimiento a gran escala?
+
+2. ¿Cómo manejan actualmente el control del consumo de agua?
+
+3. ¿Qué estrategias utilizan para garantizar que las plantas se mantengan en buen estado?
+
+4. ¿Han tenido pérdidas significativas de plantas por problemas de riego o mantenimiento?
+
+5. ¿Qué métodos utilizan para planificar y organizar las tareas de su equipo en el vivero?
+
+6. ¿Cómo gestionan el almacenamiento y uso de insumos (fertilizantes, sustratos, pesticidas)?
+
+7. ¿Qué tan importante es para su negocio poder reducir costos relacionados al consumo de agua y mantenimiento?
+
+8. ¿Utilizan actualmente algún software o sistema digital para gestionar el vivero? ¿Cuál?
+
+9. ¿Qué tipo de información o métricas consideran más útiles para tomar decisiones sobre la producción y venta?
+
+10. ¿De qué forma creen que una aplicación como PlantaE podría apoyar la eficiencia y sostenibilidad en su vivero?
+
+11. ¿Qué funcionalidades valoraría más en una herramienta digital pensada para viveros (ejemplo: gestión de riego por sectores, alertas de plagas, informes de consumo)?
+
+### 2.2.2. Registro de entrevistas
+
+##### Segmento 1: Personas con plantas en casa
+
+##### Entrevista N°1: Alessandro Bravo
+
+- Sexo: Maculino
+- Edad: 20 años
+- Direccion: Lima, Av Peru San Martin de Porres.
+
+  
+| **ALESSANDRO BRAVO** |
+|-----------------------|
+| <div align="center"><img src="assets/resources/Alessandro-Entrevista1-Segmento1.jpg" alt="Entrevista Alessandro Segmento 1" width="50%"></div> |
+| **Link de la Entrevista:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EUzFCY1QhetPtf3Bl_w7scMB4gbDOhsHCB9AJPYGOvNHQQ?e=fS5yBO |
+| <div align="center"><b>Duración:</b> 00:05:57 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:10 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:05:54</div> |
+| Alessandro Bravo, de 20 años, es estudiante universitario y comentó que le gustan las plantas principalmente como elemento decorativo dentro de su hogar. Señaló que sigue una rutina básica de cuidado, aunque reconoce que sus plantas no siempre están en buen estado debido a que a veces olvida detalles importantes o no les dedica el tiempo suficiente. Nunca ha utilizado una aplicación o sistema digital para el mantenimiento de sus plantas, pero considera que la idea de una herramienta como PlantaE es muy atractiva, ya que le permitiría organizar mejor el riego y mejorar la salud de sus plantas. El entrevistado reconoció que en ocasiones ha perdido plantas por descuidos y que le resultaría valioso contar con recordatorios o alertas que lo apoyen en el cuidado. Asimismo, resaltó que una aplicación con consejos prácticos y funciones simples lo motivaría a mantener sus plantas más saludables. |
+
+##### Segmento 2: Viveros comerciales
+##### Entrevista N°2: Duban Calderon
+
+- Sexo: Maculino
+- Edad: 26 años
+- Direccion: Barranca, PE-E16.
+
+  
+| **DUBAN CALDERON** |
+|-----------------------|
+| <div align="center"><img src="assets/resources/Alessandro-Entrevista1-Segmento1.jpg" alt="Entrevista Alessandro Segmento 1" width="50%"></div> |
+| **Link de la Entrevista:**  https:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EbF5JomUEHpIqyj-l26peDMBv6jF_ej3mKvKFNR_L7mQ2g?e=PW2al2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| <div align="center"><b>Duración:</b> 00:07:09 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:14 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:07:07</div> |
+| Duban Calderón, ingeniero agrónomo, lidera junto a su familia un vivero dedicado a la comercialización de plantas, un negocio que nació con la motivación de emprender en el rubro y ofrecer variedad y calidad a los clientes. Desde su experiencia profesional, señala que uno de los principales retos está en la gestión del riego y el mantenimiento, ya que suelen enfrentar problemas de exceso de humedad y cada planta requiere cuidados específicos, lo que impide aplicar un método único de gestión. Actualmente muchas de las tareas se organizan de forma manual, aunque considera clave optimizar el consumo de agua y asegurar la salud de las plantas. Destaca que una aplicación como PlantaE sería de gran apoyo para planificar mejor las actividades y, sobre todo, anticipar y controlar plagas, un aspecto crítico para la sostenibilidad del vivero. |
+=======
+
+
