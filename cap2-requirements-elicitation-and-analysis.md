@@ -123,7 +123,20 @@
 | Nicole Galindo, de 25 años, es dueña de un vivero y comentó que le interesan las plantas no solo como elemento decorativo, sino también por su valor ambiental. Señaló que, aunque sigue una rutina básica de cuidado en su negocio, reconoce que a veces resulta difícil mantener todas las plantas en óptimas condiciones debido a la carga de trabajo y la falta de herramientas especializadas. Nunca ha utilizado una aplicación o sistema digital para la gestión de su vivero, pero considera que la idea de una herramienta como PlantaE es muy atractiva, ya que le permitiría organizar mejor los procesos de riego y mejorar la salud de sus plantas de forma más sostenible. La entrevistada reconoció que en ocasiones ha perdido plantas por descuidos y que le resultaría valioso contar con recordatorios o alertas para optimizar el cuidado. Asimismo, resaltó que una aplicación con consejos prácticos y funciones simples orientadas a la tecnología ambiental la motivaría a mantener su vivero más saludable y eficiente. |
 
 ### 2.2.3. Análisis de entrevistas
+- ## Segmento objetivo #1: Personas (hogares urbanos que cuidan plantas)
+    - En los tres casos, el descuido ha llevado a la pérdida de plantas, ya sea por olvidos en el riego, exceso de agua o problemas de plagas. Esto evidencia una necesidad latente de apoyo externo que facilite mantener las plantas saludables.
+    
+    - Actualmente, ninguno de los entrevistados utiliza herramientas digitales específicas para el cuidado de sus plantas. Sin embargo, todos muestran un interés positivo en el uso de una app que ofrezca recordatorios, alertas y consejos prácticos. Específicamente, los aspectos más valorados serían: alertas de riego para no olvidar las plantas, recomendaciones para controlar plagas y herramientas que ayuden a optimizar el consumo de agua.
+    
+    - También se identifica un patrón en cuanto a la motivación, ,los usuarios se sentirían más felices y motivados al recibir apoyo digital que les permita mantener sus plantas en buen estado. Esto sugiere que, más allá de la funcionalidad práctica, la app debería generar satisfacción y reforzar hábitos positivos de cuidado.
 
+- ## Segmento Objetivo 2: Viveros comerciales
+    - Los entrevistados coinciden en que su motivación principal para mantener un vivero radica en ofrecer plantas saludables y de calidad. Ambos destacan que uno de los retos más importantes es la gestión del riego y mantenimiento, dado que cada especie requiere cuidados específicos y no es posible aplicar un método único para todas las plantas.
+      
+    - Actualmente, la organización de las tareas se realiza de forma manual, lo que limita la eficiencia y la capacidad de optimizar recursos como el agua, además de dificultar la prevención de plagas y problemas de salud de las plantas. Ninguno de los entrevistados ha utilizado aplicaciones digitales para la gestión de viveros, pero ambos perciben que una herramienta como PlantaE sería altamente valiosa.
+      
+    - En su motivación emocional, esta en mantener las plantas en buen estado, impactando directamente en la rentabilidad y sostenibilidad del negocio.
+      
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
