@@ -133,28 +133,28 @@
 
 ## [Anexos](anexos.md)
 
-## Registro de Versiones del Informe
+# Registro de Versiones del Informe  
+<div align="center">
 
-| Version | Fecha    | Autor          | Descripción                                                                                                                                                                                                                               |
-|---------|----------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Versión | Fecha       | Autor(es)                            | Descripción de modificación                             |
+|---------|-------------|--------------------------------------|---------------------------------------------------------|
+|   0.1   | 21/09/2025  | Apaza Bocanegra, Elizabeth Noelia    |  Elaboración de la estructura inicial del reporte.      |
+|   0.2   | 21/09/2025  | Guillen Galindo, Julio Adolfo        |  Desarrollo del Capítulo III y Capítulo IV              |
+|   0.3   | 21/09/2025  | Navarro Chinga, Antonio Jhair        |  Desarrollo del Capítulo IV y Capítulo V                |
 
-
-
-## Student Outcome
-
-_ABET – EAC - Student Outcome 5_
+# Student Outcome  
+El curso contribuye al cumplimiento del Student Outcome ABET:
+_ABET – EAC - Student Outcome 3_
 
 **Criterio:**  Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-En el siguiente cuadro se describen las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 3.
+|             <div align="center">Criterio específico</div>             |          <div align="center">Acciones Realizadas</div>            |          <div align="center">Conclusiones</div>            |
+|:---------------------------------------------------------------------:|-------------------------------------------------------------------|------------------------------------------------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | <ul><li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** <br> </li><li>**Contreras Leon, Flor De María** <br> **TB1:** <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** <br> </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** <br> </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:**</ul> | <ul><li>**TB1:** </li></ul> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | <ul><li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** <br> </li><li>**Contreras Leon, Flor De María** <br> **TB1:** <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** <br> </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** <br> </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:**</ul> | <ul><li>**TB1:** </li></ul> |
 
-| Criterio especifico                                                          | Acciones Realizadas | Conclusiones |
-| :--------------------------------------------------------------------------- | :---------------- | ----------- |
-| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia. | | |
-| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | | |
-
+<hr>
 
 
 
