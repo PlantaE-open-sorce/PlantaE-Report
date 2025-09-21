@@ -1,22 +1,15 @@
 # Conclusiones
 
-## Conclusiones generales del proyecto
-1. **Identificación de la problemática**  
-   Se evidenció la falta de soluciones tecnológicas accesibles para el cuidado de plantas y áreas verdes urbanas, donde el riego ineficiente genera desperdicio de agua y pérdida de cultivos.
+## Conclusiones
 
-2. **Propuesta tecnológica innovadora**  
-   PlantaE plantea el uso de sensores IoT y una plataforma digital para ofrecer monitoreo en tiempo real, alertas y recomendaciones personalizadas, aportando una solución sostenible y práctica para hogares y viveros.
+- El proyecto **PlantaE** permitió identificar la necesidad de soluciones tecnológicas accesibles para optimizar el cuidado de plantas y áreas verdes, especialmente en contextos urbanos donde el riego suele ser ineficiente.  
+- La propuesta basada en IoT demostró ser viable y con alto potencial de impacto social y ambiental, contribuyendo al uso responsable del agua y fomentando prácticas sostenibles.  
+- Las entrevistas y validaciones realizadas confirmaron el interés de los usuarios en una herramienta intuitiva, simple y confiable, tanto para hogares como para viveros.  
+- El trabajo grupal fortaleció la capacidad de análisis, diseño y desarrollo, además de potenciar las habilidades de comunicación, coordinación y aprendizaje colaborativo de los integrantes.  
 
-3. **Impacto social y ambiental**  
-   El proyecto contribuye a una mayor conciencia ambiental y a la gestión responsable del agua, promoviendo la sostenibilidad urbana y el bienestar comunitario.
+## Recomendaciones
 
-4. **Validación con usuarios reales**  
-   Las entrevistas confirmaron la utilidad de la aplicación, destacando la simplicidad, accesibilidad y relevancia de las funciones para distintos tipos de usuarios.
-
-5. **Aprendizaje técnico y práctico**  
-   La investigación y el desarrollo del prototipo fortalecieron competencias en análisis de requerimientos, diseño de producto y programación, generando un aprendizaje integral.
-
-## Conclusiones sobre el trabajo grupal
-- La organización del equipo y la distribución de roles facilitaron el logro de los objetivos planteados.  
-- El uso de metodologías como Lean UX permitió comprender mejor al usuario y orientar el diseño hacia sus necesidades reales.  
-- El trabajo colaborativo favoreció la creatividad, la comunicación y la capacidad de adaptación frente a los retos técnicos y de gestión.
+- Mantener una adecuada **organización de los tiempos** en cada fase del proyecto, estableciendo cronogramas realistas y priorizando tareas clave.  
+- Reforzar el proceso de validación con más usuarios, lo que permitirá obtener retroalimentación continua y mejorar la experiencia de uso.  
+- Explorar la posibilidad de alianzas con municipalidades, viveros u organizaciones ambientales para ampliar el alcance e impacto del proyecto.  
+- Seguir perfeccionando la interfaz y funcionalidades del sistema, priorizando siempre la usabilidad, la accesibilidad y la sostenibilidad como ejes centrales.  
