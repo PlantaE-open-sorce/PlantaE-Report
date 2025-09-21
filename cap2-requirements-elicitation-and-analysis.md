@@ -42,10 +42,10 @@ Es una aplicación móvil que utiliza inteligencia artificial para diagnosticar 
   </tr>
   <tr>
     <td colspan="2"> Productos </td>
-    <td> <div align="center"> PlantaE <br> <img src="assets/logos/plantE.png" alt="plantE" width="100" height="100"> </td>
-    <td> <div align="center"> AgroSmart <br> <img src="assets/logos/AgroSmart.png" alt="AgroSmart" width="100" height="100"></div> </td>
-    <td> <div align="center"> Netafim <br> <img src="assets/logos/Netafim.png" alt="Netafim" width="100" height="100"></div> </td>
-    <td> <div align="center"> Plantix <br> <img src="assets/logos/Plantix.png" alt="Plantix" width="100" height="100"></div> </td>
+    <td> <div align="center"> PlantaE <br> <img src="assets/images/logos/plantE.png" alt="plantE" width="100" height="100"> </td>
+    <td> <div align="center"> AgroSmart <br> <img src="assets/images/logos/AgroSmart.png" alt="AgroSmart" width="100" height="100"></div> </td>
+    <td> <div align="center"> Netafim <br> <img src="assets/images/logos/Netafim.png" alt="Netafim" width="100" height="100"></div> </td>
+    <td> <div align="center"> Plantix <br> <img src="assets/images/logos/Plantix.png" alt="Plantix" width="100" height="100"></div> </td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -241,7 +241,7 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
   
 | **ALESSANDRO BRAVO** |
 |-----------------------|
-| <div align="center"><img src="assets/resources/Alessandro-Entrevista1-Segmento1.jpg" alt="Entrevista Alessandro Segmento 1" width="50%"></div> |
+| <div align="center"><img src="assets/images/resources/Alessandro-Entrevista1-Segmento1.jpg" alt="Entrevista Alessandro Segmento 1" width="50%"></div> |
 | **Link de la Entrevista:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EUzFCY1QhetPtf3Bl_w7scMB4gbDOhsHCB9AJPYGOvNHQQ?e=fS5yBO |
 | <div align="center"><b>Duración:</b> 00:05:57 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:10 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:05:54</div> |
 | Alessandro Bravo, de 20 años, es estudiante universitario y comentó que le gustan las plantas principalmente como elemento decorativo dentro de su hogar. Señaló que sigue una rutina básica de cuidado, aunque reconoce que sus plantas no siempre están en buen estado debido a que a veces olvida detalles importantes o no les dedica el tiempo suficiente. Nunca ha utilizado una aplicación o sistema digital para el mantenimiento de sus plantas, pero considera que la idea de una herramienta como PlantaE es muy atractiva, ya que le permitiría organizar mejor el riego y mejorar la salud de sus plantas. El entrevistado reconoció que en ocasiones ha perdido plantas por descuidos y que le resultaría valioso contar con recordatorios o alertas que lo apoyen en el cuidado. Asimismo, resaltó que una aplicación con consejos prácticos y funciones simples lo motivaría a mantener sus plantas más saludables. |
@@ -256,7 +256,7 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
   
 | **DUBAN CALDERON** |
 |-----------------------|
-| <div align="center"><img src="assets/resources/Alessandro-Entrevista1-Segmento1.jpg" alt="Entrevista Alessandro Segmento 1" width="50%"></div> |
+| <div align="center"><img src="assets/images/resources/Duban-Entrevista2-Segmento2.jpg" alt="Entrevista Alessandro Segmento 1" width="50%"></div> |
 | **Link de la Entrevista:**  https:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EbF5JomUEHpIqyj-l26peDMBv6jF_ej3mKvKFNR_L7mQ2g?e=PW2al2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
 | <div align="center"><b>Duración:</b> 00:07:09 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:14 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:07:07</div> |
 | Duban Calderón, ingeniero agrónomo, lidera junto a su familia un vivero dedicado a la comercialización de plantas, un negocio que nació con la motivación de emprender en el rubro y ofrecer variedad y calidad a los clientes. Desde su experiencia profesional, señala que uno de los principales retos está en la gestión del riego y el mantenimiento, ya que suelen enfrentar problemas de exceso de humedad y cada planta requiere cuidados específicos, lo que impide aplicar un método único de gestión. Actualmente muchas de las tareas se organizan de forma manual, aunque considera clave optimizar el consumo de agua y asegurar la salud de las plantas. Destaca que una aplicación como PlantaE sería de gran apoyo para planificar mejor las actividades y, sobre todo, anticipar y controlar plagas, un aspecto crítico para la sostenibilidad del vivero. |

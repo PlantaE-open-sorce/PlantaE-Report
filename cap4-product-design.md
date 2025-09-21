@@ -40,7 +40,7 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 
   
 <p align="center">
-  <img src="assets/resources/Sytile_Fonts.png" alt="Web-FontStyles" width="500">
+  <img src="assets/images/resources/Sytile_Fonts.png" alt="Web-FontStyles" width="500">
 </p>
 
 
@@ -48,7 +48,7 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 **Buttons:**
 
 <p align="center">
-  <img src="assets/resources/Botones_Paleta_Font.png" alt="Web-Buttons" width="500">
+  <img src="assets/images/resources/Botones_Paleta_Font.png" alt="Web-Buttons" width="500">
 </p>
 
 **Paleta de Colores:**
@@ -56,10 +56,10 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 ![Web-Palettacolores](assets/resources/Adobe_Fonts_color2.png)
 
 <p align="center">
-  <img src="assets/resources/PaletaColoresWeb.jpg" alt="Web-Palettacolores2" width="400">
+  <img src="assets/images/resources/PaletaColoresWeb.jpg" alt="Web-Palettacolores2" width="400">
 </p>
 
 ### 4.1.2. Web Style Guidelines
 ***PlantaE*** se compromete a ofrecer una interfaz digital que no solo sea visualmente atractiva, sino también funcional y adaptable a distintos dispositivos. La prioridad está en la usabilidad, la accesibilidad y la coherencia visual, garantizando que cada usuario pueda interactuar con la aplicación de manera intuitiva y sin barreras. Estos lineamientos buscan asegurar una experiencia unificada, fresca y eficiente, en armonía con los valores de sostenibilidad y conexión con la naturaleza que inspiran al proyecto.
 
-![Web-Style-Guidelines2](assets/resources/Wen_Sytile_Guidneles.png)
+![Web-Style-Guidelines2](assets/images/resources/Wen_Sytile_Guidneles.png)
