@@ -14,10 +14,10 @@
   </tr>
   <tr>
     <td colspan="2"> Productos </td>
-    <td> <div align="center"> PlantaE <br> <img src="assets/logos/plantE.png" alt="plantE" width="100" height="100"> </td>
-    <td> <div align="center"> AgroSmart <br> <img src="assets/logos/AgroSmart.png" alt="AgroSmart" width="100" height="100"></div> </td>
-    <td> <div align="center"> Netafim <br> <img src="assets/logos/Netafim.png" alt="Netafim" width="100" height="100"></div> </td>
-    <td> <div align="center"> Plantix <br> <img src="assets/logos/Plantix.png" alt="Plantix" width="100" height="100"></div> </td>
+    <td> <div align="center"> PlantaE <br> <img src="assets/images/plantE.png" alt="plantE" width="100" height="100"> </td>
+    <td> <div align="center"> AgroSmart <br> <img src="assets/images/AgroSmart.png" alt="AgroSmart" width="100" height="100"></div> </td>
+    <td> <div align="center"> Netafim <br> <img src="assets/images/Netafim.png" alt="Netafim" width="100" height="100"></div> </td>
+    <td> <div align="center"> Plantix <br> <img src="assets/images/Plantix.png" alt="Plantix" width="100" height="100"></div> </td>
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -117,7 +117,7 @@
   
 |  **NICOLE GALINDO**   |
 |-----------------------|
-| <div align="center"><img src="assets/resources/Nicole-Entrevista1-Segmento2.png" alt="Entrevista Nicole Segmento 2" width="50%"></div> |
+| <div align="center"><img src="assets/images/Nicole-Entrevista1-Segmento2.png" alt="Entrevista Nicole Segmento 2" width="50%"></div> |
 | **Link de la Entrevista:**  [Ver Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/Efp9hVrbxJlJrLzh9qgL_8YBjISOqp_twSZWEYOsiqxZ7g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5Viycw) |
 | <div align="center"><b>Duración:</b> 00:05:57 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:10 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:05:54</div> |
 | Nicole Galindo, de 25 años, es dueña de un vivero y comentó que le interesan las plantas no solo como elemento decorativo, sino también por su valor ambiental. Señaló que, aunque sigue una rutina básica de cuidado en su negocio, reconoce que a veces resulta difícil mantener todas las plantas en óptimas condiciones debido a la carga de trabajo y la falta de herramientas especializadas. Nunca ha utilizado una aplicación o sistema digital para la gestión de su vivero, pero considera que la idea de una herramienta como PlantaE es muy atractiva, ya que le permitiría organizar mejor los procesos de riego y mejorar la salud de sus plantas de forma más sostenible. La entrevistada reconoció que en ocasiones ha perdido plantas por descuidos y que le resultaría valioso contar con recordatorios o alertas para optimizar el cuidado. Asimismo, resaltó que una aplicación con consejos prácticos y funciones simples orientadas a la tecnología ambiental la motivaría a mantener su vivero más saludable y eficiente. |
@@ -130,31 +130,31 @@
 ### 2.3.3. User Journey Mapping
 - Segmento objetivo 1:
 <div align="center">
-  <img src="assets/resources/user-journey-mapping-user1.png">
+  <img src="assets/images/user-journey-mapping-user1.png">
 </div>
 
 - Segmento objetivo 2:
 <div align="center">
- <img src="assets/resources/user-journey-mapping-user2.png">
+ <img src="assets/images/user-journey-mapping-user2.png">
 </div>
 
 ### 2.3.4. Empathy Mapping
 - Segmento objetivo 1:
 <div align="center">
- <img src="assets/resources/empathy-mapping-user1.png">
+ <img src="assets/images/empathy-mapping-user1.png">
 </div>
 
 - Segmento objetivo 2:
 <div align="center">
- <img src="assets/resources/empathy-mapping-user2.png">
+ <img src="assets/images/empathy-mapping-user2.png">
 </div>
 
 ## 2.4. Big Picture Event Storming
 <div align="center"> 
-  <img src="assets/resources/big-picture-event-storming-Settings.jpg" alt="Settings" width="600"> 
-  <img src="assets/resources/big-picture-event-storming-IAM.jpg" alt="IAM" width="600"> 
-  <img src="assets/resources/big-picture-event-storming-Task.jpg" alt="Task" width="600"> 
-  <img src="assets/resources/big-picture-event-storming-Notifications.jpg" alt="Notifications" width="600"> 
+  <img src="assets/images/big-picture-event-storming-Settings.jpg" alt="Settings" width="600"> 
+  <img src="assets/images/big-picture-event-storming-IAM.jpg" alt="IAM" width="600"> 
+  <img src="assets/images/big-picture-event-storming-Task.jpg" alt="Task" width="600"> 
+  <img src="assets/images/big-picture-event-storming-Notifications.jpg" alt="Notifications" width="600"> 
 </div>
 
 ## 2.5. Ubiquitous Language
