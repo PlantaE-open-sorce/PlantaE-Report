@@ -6,8 +6,8 @@ Somos EcoTech, una startup universitaria conformada por estudiantes de la Univer
 PlantaE surge ante la creciente necesidad de contar con herramientas accesibles y confiables que faciliten el riego eficiente y el cuidado de áreas verdes en hogares y viveros. La aplicación recopila datos en tiempo real sobre humedad, temperatura, luminosidad y calidad del aire mediante sensores instalados en macetas o terrenos de cultivo, brindando a los usuarios notificaciones oportunas y recomendaciones personalizadas para garantizar la salud de sus plantas. Ademas de, contribuir al uso responsable del agua, ofreciendo una plataforma que combina tecnología, sostenibilidad y facilidad de uso. Con PlantaE, buscamos acercar la innovación al bienestar ambiental y a la vida diaria de las personas, fomentando comunidades más conscientes y responsables con su entorno.
 
 <div align="center">
-  <img src="assets/logos/EcoTech.png" alt="EcoTech" width="150" height="150"> 
-  <img src="assets/logos/plantE.png" alt="plantE" width="150" height="150">
+  <img src="assets/images/EcoTech.png" alt="EcoTech" width="150" height="150"> 
+  <img src="assets/images/plantE.png" alt="plantE" width="150" height="150">
 </div>
 
 ### Misión:
@@ -24,7 +24,7 @@ Ser una referencia en soluciones tecnológicas para el cuidado de plantas y áre
 | **Código del Estudiante** | u20241a352                                                                          |
 | **Carrera**               | Ingeniería de Software                                                              |
 | **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
-| **Foto**                  | <div align="center"> <img src="assets/profiles/julio_logo.jpg" alt="Julio" width="150" height="150"> </div> |
+| **Foto**                  | <div align="center"> <img src="assets/images/julio_logo.jpg" alt="Julio" width="150" height="150"> </div> |
 
 </div>
 
@@ -54,7 +54,7 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 <div align="center"> 
-  <img src="assets/resources/lean-ux-canvas.png" alt="Canvas"> 
+  <img src="assets/images/lean-ux-canvas.png" alt="Canvas"> 
 </div>
 
 ## 1.3. Segmentos objetivo
