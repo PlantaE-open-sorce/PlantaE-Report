@@ -71,3 +71,37 @@ Se utilizará el estándar de **Conventional Commits** para los mensajes de comm
 - **IDs HTML**: `camelCase` (ej. `mainContent`)
 - **Variables JS**: `camelCase` (ej. `userName`)
 - **Funciones JS**: `camelCase` (ej. `handleClick()`)
+
+### 5.1.4. Software Deployment Configuration
+
+Esta sección detalla los pasos necesarios para desplegar de forma satisfactoria los productos digitales que componen la solución: el landing page.
+
+**1. Landing Page - HTML, CSS y Javascript**
+
+**Tecnología Base**
+
+* Lenguajes: HTML5, CSS3, JavaScript
+* Hosting: GitHub Pages
+
+**Configuración y Despliegue**
+
+* Repositorio de Código Fuente:
+  La Landing Page se desarrolla utilizando HTML, CSS y JavaScript puro. Todos los archivos del proyecto deben subirse a un repositorio público en GitHub. Es obligatorio que el archivo `index.html` esté ubicado en la raíz del repositorio (`/`) para que GitHub Pages lo detecte correctamente como punto de entrada del sitio.
+
+**Configuración del despliegue en GitHub Pages** :
+
+* Acceder al repositorio en GitHub.
+* Ir a la sección **Settings** del repositorio.
+* En el menú lateral, seleccionar  **Pages** .
+* En el campo  **Source** , elegir:
+  * Rama: `main`
+  * Carpeta: `/ (root)`
+* Guardar los cambios.
+
+**Publicación** :
+
+Una vez guardada la configuración, GitHub generará automáticamente una URL pública donde la Landing Page estará disponible. Esta URL sigue el formato: `https://<usuario>.github.io/<repositorio>/`
+
+**Actualizaciones** :
+
+Cualquier nuevo commit hecho a la rama `main` será detectado automáticamente por GitHub Pages y aplicado en la versión publicada sin necesidad de acciones adicionales.
