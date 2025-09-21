@@ -146,3 +146,103 @@ Para enfrentar a la competencia y posicionarse de manera sólida en el ecosistem
 
 **Gestión de riesgos y validación de proyectos:**
 - Frente a la posible desconfianza en nuevas plataformas digitales o la falta de continuidad en proyectos comunitarios, PlantaE aplicará un modelo de validación y seguimiento transparente. Cada proyecto contará con métricas claras de impacto y espacios de retroalimentación, lo que fortalecerá la confianza y garantizará la sostenibilidad a largo plazo.
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+Hola, mi nombre es [Nombre del entrevistador] y formo parte del equipo que está desarrollando PlantaE, una iniciativa que busca mejorar el cuidado de plantas y áreas verdes con ayuda de la tecnología. Nuestra idea es apoyarnos en el Internet de las Cosas (IoT), es decir, en sensores y dispositivos que recopilan datos en tiempo real sobre tus plantas —por ejemplo, la humedad del suelo o la cantidad de agua utilizada— para que el riego y el mantenimiento sean más fáciles y eficientes.
+
+Con esto queremos crear una aplicación que te brinde alertas, consejos y herramientas prácticas para ahorrar agua, cuidar mejor de las plantas y simplificar el proceso, ya sea en casa o en un vivero.
+
+**Diseño de entrevistas - Segmento 1 :**
+
+**Presentacion del proyecto y inicio de la entrevista:**
+- Para empezar, ¿puedes contarnos tu nombre y qué relación tienes con el cuidado de plantas en tu hogar?
+
+- ¿Cómo describirías tu experiencia con las plantas: las consideras un pasatiempo, una responsabilidad o parte de tu estilo de vida?
+
+- ¿Qué lugar ocupan las plantas en tu día a día (ejemplo: decoración, conexión con la naturaleza, bienestar personal)?
+
+- ¿Desde cuándo empezaste a cuidar plantas en casa y qué te motivó a hacerlo?
+
+**Preguntas:**
+
+1. ¿Dedicas un tiempo específico en la semana para cuidar tus plantas o lo haces de manera espontánea?
+
+2. ¿Qué dificultades enfrentas al cuidar tus plantas o áreas verdes?
+
+3. ¿Cómo organizas el riego y mantenimiento de tus plantas?
+
+4. ¿Has tenido problemas relacionados con el riego (por exceso, falta o uso de agua)?
+
+5. ¿Qué tanto influye el consumo de agua en tu decisión de cuidar más o menos plantas?
+
+6. ¿Alguna vez has perdido plantas por no darles el cuidado adecuado? ¿Cómo te sentiste?
+
+7. ¿Ha tenido problemas relacionados con el mantenimiento general de tus plantas (plagas, falta de tiempo, espacio)?
+
+8. ¿Usas actualmente alguna aplicación, sistema o herramienta para ayudarte en el cuidado de tus plantas?
+
+9. ¿Qué tan cómodo te sentirías usando sensores o aplicaciones para recibir alertas y recomendaciones sobre tus plantas?
+
+10. ¿Qué tan útil te resultaría una aplicación que te ayude a optimizar el riego y cuidado de tus plantas?
+
+11. ¿Qué funcionalidades te motivarían más a usar una aplicación como esta? (ejemplo: alertas de riego, consejos personalizados, ahorro de agua).
+
+12. Si tuvieras esta aplicación, ¿cómo crees que cambiaría tu experiencia actual con el cuidado de plantas en casa?
+
+13. ¿Hay algo más que te gustaría agregar sobre tu experiencia con las plantas y áreas verdes?
+
+**Diseño de entrevistas - Segmento 2 :**
+
+**Presentacion del proyecto y inicio de la entrevista:**
+
+- Para comenzar, ¿puedes presentarte y contarnos tu rol dentro del vivero o negocio de plantas?
+
+- ¿Cuál es la historia detrás del vivero? (¿Cómo empezó y qué los motivó a dedicarse a este rubro?)
+
+- ¿Qué tanto valoras la tecnología o la innovación en el manejo de riego y mantenimiento en tu negocio?
+
+**Preguntas:**
+
+1. ¿Qué retos enfrenta en la gestión del riego y mantenimiento a gran escala?
+
+2. ¿Cómo manejan actualmente el control del consumo de agua?
+
+3. ¿Qué estrategias utilizan para garantizar que las plantas se mantengan en buen estado?
+
+4. ¿Han tenido pérdidas significativas de plantas por problemas de riego o mantenimiento?
+
+5. ¿Qué métodos utilizan para planificar y organizar las tareas de su equipo en el vivero?
+
+6. ¿Cómo gestionan el almacenamiento y uso de insumos (fertilizantes, sustratos, pesticidas)?
+
+7. ¿Qué tan importante es para su negocio poder reducir costos relacionados al consumo de agua y mantenimiento?
+
+8. ¿Utilizan actualmente algún software o sistema digital para gestionar el vivero? ¿Cuál?
+
+9. ¿Qué tipo de información o métricas consideran más útiles para tomar decisiones sobre la producción y venta?
+
+10. ¿De qué forma creen que una aplicación como PlantaE podría apoyar la eficiencia y sostenibilidad en su vivero?
+
+11. ¿Qué funcionalidades valoraría más en una herramienta digital pensada para viveros (ejemplo: gestión de riego por sectores, alertas de plagas, informes de consumo)?
+
+### 2.2.2. Registro de entrevistas
+
+##### Segmento 1: Personas con plantas en casa
+
+##### Entrevista N°1: Alessandro Bravo
+
+- Sexo: Maculino
+- Edad: 20 años
+- Direccion: Lima, Av Peru San Martin de Porres.
+
+  
+| **ALESSANDRO BRAVO** |
+|-----------------------|
+| <div align="center"><img src="assets/resources/Alessandro-Entrevista1-Segmento1.jpg" alt="Entrevista Alessandro Segmento 1" width="50%"></div> |
+| **Link de la Entrevista:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EUzFCY1QhetPtf3Bl_w7scMB4gbDOhsHCB9AJPYGOvNHQQ?e=fS5yBO |
+| <div align="center"><b>Duración:</b> 00:05:57 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:10 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:05:54</div> |
+| Alessandro Bravo, de 20 años, es estudiante universitario y comentó que le gustan las plantas principalmente como elemento decorativo dentro de su hogar. Señaló que sigue una rutina básica de cuidado, aunque reconoce que sus plantas no siempre están en buen estado debido a que a veces olvida detalles importantes o no les dedica el tiempo suficiente. Nunca ha utilizado una aplicación o sistema digital para el mantenimiento de sus plantas, pero considera que la idea de una herramienta como PlantaE es muy atractiva, ya que le permitiría organizar mejor el riego y mejorar la salud de sus plantas. El entrevistado reconoció que en ocasiones ha perdido plantas por descuidos y que le resultaría valioso contar con recordatorios o alertas que lo apoyen en el cuidado. Asimismo, resaltó que una aplicación con consejos prácticos y funciones simples lo motivaría a mantener sus plantas más saludables. |
+
+##### Segmento 2: Viveros comerciales
