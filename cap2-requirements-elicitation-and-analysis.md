@@ -1,1 +1,148 @@
 # Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+
+En esta sección, se presenta un análisis de los principales competidores de PlantaE, centrado en aquellos que operan con modelos de negocio digitales similares o que, aunque no sean idénticos, ofrecen productos o servicios que se superponen parcialmente con nuestra propuesta.Evaluamos tanto competidores directos, que ofrecen plataformas basadas en IoT para monitoreo de cultivos y áreas verdes, como competidores indirectos, que brindan soluciones de riego automatizado o aplicaciones de agricultura urbana más generales.
+
+Este análisis nos permitirá comprender mejor el entorno competitivo y cómo podemos diferenciarnos en el ecosistema de soluciones de agricultura urbana sostenible.
+
+1. ### AgroSmart : 
+Es una de las startups líderes en soluciones de agricultura digital. Su plataforma combina sensores IoT, imágenes satelitales e inteligencia artificial para optimizar el manejo de grandes cultivos.
+
+- **Fortalezas:** monitoreo IoT en tiempo real, predicciones climáticas y optimización avanzada del riego.
+
+- **Debilidades:** está orientada a la agricultura a gran escala y requiere alta inversión, lo que limita su accesibilidad para viveros urbanos y hogares.
+
+2. ### Netafim:
+Es una empresa pionera en riego por goteo inteligente, con sistemas que reducen significativamente el consumo de agua en cultivos.
+
+- **Fortalezas:** experiencia consolidada, sistemas de riego automatizado de alta eficiencia y sostenibilidad hídrica comprobada.
+
+- **Debilidades:** alto costo de implementación y foco en agricultores medianos y grandes, con baja personalización para usuarios urbanos.
+
+3. ### Plantix
+
+Es una aplicación móvil que utiliza inteligencia artificial para diagnosticar plagas y enfermedades en cultivos mediante fotos.
+
+- **Fortalezas:** accesibilidad desde dispositivos móviles, comunidad activa de usuarios y recomendaciones prácticas para el cuidado de plantas.
+
+- **Debilidades:** su alcance está limitado al diagnóstico de problemas y no ofrece un sistema de monitoreo IoT ni gestión hídrica.
+
+### 2.1.1. Análisis competitivo
+<table> 
+  <tr>
+    <th colspan="7"> Competitive Analysis Landscape </th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar acabo este análisis? </td>
+    <td colspan="5"> ¿Que busca comprender el analisis de PlantaE frente a competidores que ofrecen soluciones de agricultura digital e IoT, considerando factores de accesibilidad, mercado objetivo y sostenibilidad? </td>
+  </tr>
+  <tr>
+    <td colspan="5"> Este análisis busca comprender el posicionamiento de PlantaE en comparación con otras soluciones digitales e IoT para la gestión de cultivos y áreas verdes, identificando oportunidades de mejora y diferenciación frente a las necesidades de nuestros segmentos objetivos: hogares urbanos interesados en el cuidado sostenible de plantas y viveros comerciales que buscan optimizar el uso de recursos y mejorar la salud de sus cultivos. </td>
+  </tr>
+  <tr>
+    <td colspan="2"> Productos </td>
+    <td> <div align="center"> PlantaE <br> <img src="assets/logos/plantE.png" alt="plantE" width="100" height="100"> </td>
+    <td> <div align="center"> AgroSmart <br> <img src="assets/logos/AgroSmart.png" alt="AgroSmart" width="100" height="100"></div> </td>
+    <td> <div align="center"> Netafim <br> <img src="assets/logos/Netafim.png" alt="Netafim" width="100" height="100"></div> </td>
+    <td> <div align="center"> Plantix <br> <img src="assets/logos/Plantix.png" alt="Plantix" width="100" height="100"></div> </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td> Plataforma accesible de monitoreo IoT en tiempo real para hogares y viveros comerciales. </td>
+    <td> Startup de agricultura digital con sensores IoT, IA y datos satelitales. </td>
+    <td> Empresa líder en riego inteligente a nivel global. </td>
+    <td> App móvil que diagnostica plagas y enfermedades con IA. </td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td> Accesible, simple y adaptable a hogares y viveros comerciales. </td>
+    <td> Alta tecnología para agricultura a gran escala. </td>
+    <td> Experiencia consolidada y eficiencia hídrica. </td>
+    <td> Uso de IA accesible desde móvil y comunidad activa. </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td> Mercado Objetivo </td>
+    <td> Hogares urbanos y viveros comerciales pequeños/medianos. </td>
+    <td> Agricultores industriales y medianos. </td>
+    <td> Agricultores medianos y grandes. </td>
+    <td> Agricultores y aficionados urbanos </td>
+  </tr>
+  <tr>
+    <td> Estrategias de Marketing </td>
+    <td> Educación digital sobre sostenibilidad, alianzas con viveros locales. </td>
+    <td> Marketing B2B, posicionamiento tecnológico. </td>
+    <td> Branding global, casos de éxito y sostenibilidad hídrica. </td>
+    <td> Estrategia digital masiva vía Google Play/App Store. </td>
+  </tr> 
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td> Productos & Servicios </td>
+    <td> Sensores IoT, web, recomendaciones personalizadas. </td>
+    <td> Sensores IoT, pronósticos climáticos, gestión avanzada. </td>
+    <td> Sistemas de riego por goteo inteligentes, software de gestión. </td>
+    <td> Diagnóstico de plagas y comunidad de soporte. </td>
+  </tr>
+  <tr>
+    <td> Precios & Costos </td>
+    <td> Accesible, modelo freemium o suscripción baja. </td>
+    <td> Alto costo, licencias SaaS premium. </td>
+    <td> Alta inversión inicial y mantenimiento. </td>
+    <td> Gratis con servicios premium. </td>
+  </tr>
+  <tr> 
+    <td>Canales de distribución (Web y/o Móvil)</td>
+    <td> Aplicación Web. </td>
+    <td> Aplicación Web y App móvil. </td>
+    <td> Equipos físicos más plataforma digital. </td>
+    <td> App móvil. </td>
+  </tr>  
+  <tr>
+    <td rowspan="4"> Análisis SWOT </td>
+    <td> Fortalezas </td>
+    <td> Accesibilidad, simplicidad de uso, enfoque en sostenibilidad urbana. </td>
+    <td> Tecnología avanzada, IA y datos satelitales. </td>
+    <td> Experiencia consolidada, reducción comprobada de consumo de agua. </td>
+    <td> Uso de IA en diagnóstico, comunidad digital activa. </td>
+  </tr>
+  <tr>
+    <td> Debilidades </td>
+    <td> Escala inicial limitada, baja madurez tecnológica frente a competidores. </td>
+    <td> Costos elevados, poco enfoque en usuarios pequeños. </td>
+    <td> Alto costo, poca personalización para usuarios urbanos. </td>
+    <td> No ofrece gestión hídrica ni monitoreo IoT. </td>
+  </tr>
+  <tr>
+    <td> Oportunidades </td>
+    <td> Creciente demanda de soluciones sostenibles, apoyo a viveros urbanos. </td>
+    <td> Expansión en mercados emergentes. </td>
+    <td> Creciente necesidad de eficiencia hídrica. </td>
+    <td> Integración con soluciones de riego y monitoreo urbano. </td>
+  </tr>
+  <tr>
+    <td> Amenazas </td>
+    <td> Entrada de grandes competidores al segmento urbano, barreras de adopción tecnológica. </td>
+    <td> Saturación de mercado y alta inversión necesaria para usuarios pequeños. </td>
+    <td> Nuevas startups más ágiles y accesibles. </td>
+    <td> Dependencia de la precisión de IA y limitación del modelo freemium. </td>
+  </tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+Para enfrentar a la competencia y posicionarse de manera sólida en el ecosistema de soluciones sostenibles, **PlantaE implementará estrategias enfocadas en sus principales ventajas competitivas** y en la explotación de oportunidades poco atendidas por otras iniciativas. Entre las principales tácticas preliminares destacan:
+
+**Estrategia de diferenciación sostenible :**
+- La plataforma digital de PlantaE facilitará la conexión entre ciudadanos, municipalidades, ONGs y empresas, mediante herramientas enfocadas en la regeneración de áreas verdes y el monitoreo comunitario. Se contempla, por ejemplo, el desarrollo progresivo de funcionalidades como reportes de impacto ambiental en tiempo real y mapas interactivos de proyectos verdes, diferenciándonos de competidores que se centran únicamente en el sector agrícola o de riego.
+
+**Alianzas estratégicas multiactor:**
+- PlantaE priorizará la construcción de convenios con municipalidades, viveros urbanos y organizaciones comunitarias. Estas alianzas permitirán fortalecer la confianza en la plataforma, garantizar acceso a insumos sostenibles y generar proyectos colaborativos que refuercen el sentido de pertenencia ciudadana.
+
+**Campañas digitales con enfoque social y ambiental:**
+- Las campañas en redes sociales serán clave para sensibilizar sobre la importancia del cuidado de áreas verdes urbanas. Se priorizarán contenidos educativos, testimonios de voluntarios y casos de éxito en la transformación de espacios públicos, reforzando así la conexión emocional entre los usuarios y su entorno.
+
+**Captación y fidelización de comunidades:**
+- La plataforma incluirá herramientas que permitan a los ciudadanos participar en proyectos de reforestación, limpieza y mantenimiento, mientras que ONGs y empresas podrán gestionar sus iniciativas desde un panel especializado. Se prevé también la implementación de incentivos no monetarios, como reconocimientos digitales o certificaciones de impacto ambiental.
+
+**Gestión de riesgos y validación de proyectos:**
+- Frente a la posible desconfianza en nuevas plataformas digitales o la falta de continuidad en proyectos comunitarios, PlantaE aplicará un modelo de validación y seguimiento transparente. Cada proyecto contará con métricas claras de impacto y espacios de retroalimentación, lo que fortalecerá la confianza y garantizará la sostenibilidad a largo plazo.
