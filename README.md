@@ -140,6 +140,10 @@
 |   0.1   | 21/09/2025  | Apaza Bocanegra, Elizabeth Noelia    |  Elaboración de la estructura inicial del reporte.      |
 |   0.2   | 21/09/2025  | Guillen Galindo, Julio Adolfo        |  Desarrollo del Capítulo III y Capítulo IV              |
 |   0.3   | 21/09/2025  | Navarro Chinga, Antonio Jhair        |  Desarrollo del Capítulo IV y Capítulo V                |
+|   0.4   | 21/09/2025  | Contreras Leon, Flor de Maria        |  Desarrollo Basico de la landing Page               |
+|   0.5   | 21/09/2025  | Contreras Leon, Flor de Maria        |  Desarrollo del Capítulo IV y Capítulo V                |
+
+
 
 # Student Outcome  
 El curso contribuye al cumplimiento del Student Outcome ABET:
