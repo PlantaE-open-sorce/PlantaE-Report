@@ -132,3 +132,28 @@
 ## [Bibliografía](bibliography.md)
 
 ## [Anexos](anexos.md)
+
+# Registro de Versiones del Informe  
+
+| Versión | Fecha       | Autor(es)                            | Descripción de modificación                             |
+|---------|-------------|--------------------------------------|---------------------------------------------------------|
+|   0.1   | 21/09/2025  | Apaza Bocanegra, Elizabeth Noelia    |  Elaboración de la estructura inicial del reporte.      |
+|   0.2   | 21/09/2025  | Guillen Galindo, Julio Adolfo        |  Desarrollo del Capítulo III y Capítulo IV              |
+|   0.3   | 21/09/2025  | Navarro Chinga, Antonio Jhair        |  Desarrollo del Capítulo IV y Capítulo V                |
+|   0.4   | 21/09/2025  | Contreras Leon, Flor de Maria        |  Desarrollo Basico de la landing Page               |
+|   0.5   | 21/09/2025  | Contreras Leon, Flor de Maria        |  Desarrollo del Capítulo IV y Capítulo V                |
+
+
+
+# Student Outcome  
+El curso contribuye al cumplimiento del Student Outcome ABET:
+_ABET – EAC - Student Outcome 3_
+
+**Criterio:**  Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+|             <div align="center">Criterio específico</div>             |          <div align="center">Acciones Realizadas</div>            |          <div align="center">Conclusiones</div>            |
+|:---------------------------------------------------------------------:|-------------------------------------------------------------------|------------------------------------------------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | <ul><li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** En esta entrega se realizo entrevistas para conocer las necesidades del proyecto, aportando retroalimentación a los compañeros. </li><li>**Contreras Leon, Flor De María** <br> **TB1:** Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto, incluyendo Lean UX Problem Statements, Assumptions e Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, estableciendo una base conceptual sólida para estructurar el producto y asegurando que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.  <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** Me encargué de informar a mi equipo sobre los porgremos que seguiríamos. Además, participé de forma activa en la revisión de los avances realizados por mis compañeros y colaboré en la preparación del projecto para las presentaciones. </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:** Estuvo atento en información del equipo de las actividades a seguir, colaborando en la preparación y exposición del proyecto. </ul> | <ul><li>**TB1:** Cada persona asumió sus tareas asignadas y se comunicó de forma directa, creando un ambiente de trabajo que impulsó la colaboración y mejoró el trabajo conjunto, aspecto fundamental en proyectos de equipo </li></ul> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | <ul><li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** Redacto el documento del avance, así como mensajes y graficos para que el equipo pudiera seguir los lineamientos establecidos. </li><li>**Contreras Leon, Flor De María** <br> **TB1:** Elaboré y lideré la redacción de secciones clave de la documentación del proyecto, incluyendo Lean UX Problem Statements, Assumptions e Hypothesis Statements, asegurando que la información estuviera clara y organizada. Esta labor permitió que el equipo comprendiera los problemas, supuestos e hipótesis del proyecto de manera consistente, facilitando la comunicación escrita efectiva entre todos los integrantes y asegurando un marco común de referencia. <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** Contribuí en la definición de las pautas y lineamientos que nuestro equipo seguia durante el proceso. Además, estuve a cargo de la elaboración de los capítulos 3 y 4. </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** <br> </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:** Participo en la definición de las pautas de nuestro equipo durante el desarrollo, aportando ideas para mejorar la metodología de trabajo con las metricas establecida. </ul> | <ul><li>**TB1:** Cada integrante asumió las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva que fomentó la confianza entre todos. Esto contribuyó a fortalecer el trabajo en equipo, un aspecto esencial para el éxito de los proyectos colaborativos. </li></ul> |
+<hr>
