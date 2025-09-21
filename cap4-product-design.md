@@ -50,6 +50,11 @@
 
 ### 4.7.1. Class Diagrams
 
+<img src="assets/resources/class_diagrams.png" alt="Diagrama Clases" width="1000" height="">   
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagrams
+
+<img src="assets/resources/database_diagrams.png" alt="Diagrama Base de Datos" width="1000" height="">    
+
