@@ -35,6 +35,22 @@ El sistema de etiquetado de PlantaE emplea nombres claros, consistentes y orient
 Con esto se busca que tanto un usuario casual como uno con perfil técnico puedan comprender sin dificultad el contenido.
 
 ### 4.2.5. Navigation Systems
+La navegación en PlantaE sigue un enfoque simple, intuitivo y responsivo:
+
+- Menú superior fijo: accesible en todo momento, con enlaces internos a cada sección de la landing page (#benefits, #how-it-works, #plans, #contact).
+
+- Smooth scrolling: desplazamiento fluido entre secciones para mejorar la experiencia del usuario.
+
+- Versión móvil: menú hamburguesa desplegable que mantiene los mismos enlaces clave.
+
+- Navegación secundaria (en la web app): incluye pestañas internas para “Mis Plantas”, “Alertas”, “Reportes” y “Configuración”.
+
+- Breadcrumbs (para viveros con múltiples lotes): facilitan ubicar la posición del usuario dentro del sistema.
+
+- Call To Action destacados: botones visibles en secciones clave que redirigen a registro o demo.
+
+Este sistema permite un recorrido ágil y consistente, evitando que el usuario se pierda entre la información y favoreciendo la interacción rápida con las funciones principales.
+
 
 ## 4.3. Landing Page UI Design
 
