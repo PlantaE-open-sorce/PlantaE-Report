@@ -6,7 +6,7 @@
 - La propuesta basada en IoT demostró ser viable y con alto potencial de impacto social y ambiental, contribuyendo al uso responsable del agua y fomentando prácticas sostenibles.  
 - Las entrevistas y validaciones realizadas confirmaron el interés de los usuarios en una herramienta intuitiva, simple y confiable, tanto para hogares como para viveros.  
 - El trabajo grupal fortaleció la capacidad de análisis, diseño y desarrollo, además de potenciar las habilidades de comunicación, coordinación y aprendizaje colaborativo de los integrantes.  
-
+ 
 ## Recomendaciones
 
 - Mantener una adecuada **organización de los tiempos** en cada fase del proyecto, estableciendo cronogramas realistas y priorizando tareas clave.  
