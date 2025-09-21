@@ -53,7 +53,7 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 
 **Paleta de Colores:**
 
-![Web-Palettacolores](assets/resources/Adobe_Fonts_color2.png)
+![Web-Palettacolores](assets/images/resources/Adobe_Fonts_color2.png)
 
 <p align="center">
   <img src="assets/images/resources/PaletaColoresWeb.jpg" alt="Web-Palettacolores2" width="400">
