@@ -51,3 +51,23 @@ Se utilizará el estándar de **Conventional Commits** para los mensajes de comm
 - `feat: add login functionality`
 - `fix: correct null pointer exception on user service`
 - `chore: update dependencies`
+
+### 5.1.3. Source Code Style Guide & Conventions.
+
+#### Frontend (Landing Page - HTML, CSS, JavaScript)
+
+##### Convenciones generales:
+
+- **Idioma**: Todo el código, incluyendo nombres de variables, funciones y clases, está escrito en **inglés**.
+- **Indentación**: 2 espacios.
+- **Formato de archivos**: `.html`, `.css`, `.js`
+- **Estilo de código adoptado**:
+  - [W3Schools HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
+  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
+##### Nomenclatura:
+
+- **Clases CSS**: `kebab-case` (ej. `main-container`)
+- **IDs HTML**: `camelCase` (ej. `mainContent`)
+- **Variables JS**: `camelCase` (ej. `userName`)
+- **Funciones JS**: `camelCase` (ej. `handleClick()`)
