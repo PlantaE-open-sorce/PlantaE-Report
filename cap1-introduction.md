@@ -39,6 +39,7 @@ Ser una referencia en soluciones tecnológicas para el cuidado de plantas y áre
 | **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
 | **Foto**                  | <div align="center"> <img src="assets/images/profiles/julio_logo.jpg" alt="Julio" width="150" height="150"> </div> |
 
+
 | **Integrante**            | **Navarro Chinga, Antonio Jhair**                                               |
 |---------------------------|-------------------------------------------------------------------------------------|
 | **Código del Estudiante** | U202314101                                                                          |
@@ -46,6 +47,16 @@ Ser una referencia en soluciones tecnológicas para el cuidado de plantas y áre
 | **Descripción**           | Mi nombre es Antonio Jhair Navarro Chinga, tengo 19 años y soy estudiante del quinto ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona colaborativa y responsable, características que considero fundamentales para el trabajo en equipo y el logro de objetivos comunes. A lo largo de mi formación académica he adquirido sólidos conocimientos en programación estructurada, programación orientada a objetos y algoritmos, lo que me permite abordar problemas con un enfoque lógico y eficiente. Además, me interesa mantenerme actualizado con las nuevas tendencias y herramientas en el mundo del software, y siempre busco nuevas oportunidades para aprender y mejorar mis habilidades colaborando en equipo.|
 | **Foto**                  | <div align="center"> <img src="assets/images/profiles/Antonio.jpeg" alt="Antonio" width="150" height="150"> </div> |
 
+<div align="center">
+
+| *Integrante*            | **Miraval Pomalaya,Rodrigo Jesus**                                                  |
+|---------------------------|-------------------------------------------------------------------------------------|
+| *Código del Estudiante* | u202311082                                                                          |
+| *Carrera*               | Ingeniería de Software                                                              |
+| *Descripción*           | Mi nombre es Rodrigo Jesus Miraval Pomalaya y estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona adaptable y detallista, siempre en busca de aprender y mejorar en lo que hago. Tengo conocimientos en Python, JavaScript, HTML y CSS, además de un nivel intermedio en SQL Server y MySQL. Me gusta aplicar lo aprendido en proyectos académicos y trabajar en equipo, ya que compartir ideas no solo ayuda a obtener mejores resultados, sino también a ampliar mi visión en la carrera. |
+| *Foto*                  |  <div align="center"> <img src="assets/images/profiles/Rodrigo_logo.jpg" alt="Rodrigo" width="150" height="150"> </div>    |
+
+</div>
 
 ## 1.2 Solution Profile
 

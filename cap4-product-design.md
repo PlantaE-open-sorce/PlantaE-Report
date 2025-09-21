@@ -38,12 +38,9 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 
 - Notas o captions en Light para diferenciar información secundaria.
 
-  
 <p align="center">
   <img src="assets/images/resources/Sytile_Fonts.png" alt="Web-FontStyles" width="500">
 </p>
-
-
 
 **Buttons:**
 
@@ -66,15 +63,100 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 
 ## 4.2. Information Architecture
 
+La arquitectura de información (IA) en **PlantaE **busca reducir la carga cognitiva de los usuarios, facilitando la navegación, el acceso a funcionalidades clave y guiándolos en su journey de cuidado y gestión de plantas y áreas verdes. Se articula en cinco pilares.
+
 ### 4.2.1. Organization Systems
+La landing page de PlantaE se organiza bajo un sistema jerárquico y progresivo que busca guiar al usuario desde la propuesta de valor hasta la acción final. Las secciones se estructuran en bloques diferenciados y ordenados para asegurar claridad y fluidez en la navegación:
+
+- Header: incluye el logotipo de PlantaE y la barra de navegación principal.
+
+- Hero Section: propuesta de valor clara con un eslogan, llamada a la acción y una imagen representativa de la app.
+
+- Beneficios principales: explica ventajas de usar PlantaE (ahorro de agua, cuidado fácil, alertas personalizadas).
+
+- Cómo funciona: breve descripción en pasos con íconos para mostrar la instalación de sensores, el monitoreo y las recomendaciones.
+
+- Planes o Público objetivo: bloques diferenciados para usuarios domésticos y viveros.
+
+- Testimonios o casos de uso: muestra evidencia social con experiencias de usuarios.
+
+- Contacto y registro: formulario de contacto, enlaces a redes sociales y botón de registro destacado.
+
+Este orden responde a un patrón de lectura en “Z”, guiando la atención desde el encabezado hasta los botones de acción, asegurando que el usuario encuentre rápidamente información clave antes de decidir registrarse.
 
 ### 4.2.2. Labeling Systems
+El sistema de etiquetado de PlantaE emplea nombres claros, consistentes y orientados a la acción, con el objetivo de transmitir confianza y accesibilidad:
+
+- Menú principal: “Inicio”, “Beneficios”, “Cómo funciona”, “Planes”, “Contacto”.
+
+- Botones de acción: textos directos como “Regístrate gratis”, “Descubre PlantaE” o “Solicitar demo”.
+
+- Encabezados y subtítulos: utilizan un lenguaje cercano y orientado al usuario, por ejemplo: “Cuida tus plantas de manera inteligente” o “Control total de tus cultivos en un solo lugar”.
+
+- Íconos e imágenes: llevan etiquetas alt descriptivas para garantizar accesibilidad a usuarios con lectores de pantalla.
+
+- Secciones técnicas (dashboard, alertas, reportes): etiquetadas con nombres comprensibles como “Panel de control” o “Alertas críticas”.
+
+Con esto se busca que tanto un usuario casual como uno con perfil técnico puedan comprender sin dificultad el contenido.
 
 ### 4.2.3. SEO Tags and Meta Tags
+- Landing Page:
+    - Title: PlantaE, monitoreo inteligente de cultivos urbanos con IoT.
+    - Meta Description: Supervisa tus plantas en tiempo real con sensores IoT, brindando recomendaciones de riego y cuidado personalizado para que tus cultivos urbanos crezcan saludables y sostenibles.
+    - Meta Keywords: Plantas inteligentes, cultivos urbanos, IoT, agricultura sostenible, cuidado de plantas, huertos urbanos, monitoreo ambiental.
+    - Meta Author: PlantaE Team.
+
+- Web Application:
+    - Title: PlantaE, estado de tus plantas en tiempo real.
+    - Meta Description: Gestiona tus cultivos urbanos desde un solo lugar. Visualiza humedad, temperatura, luz y calidad del aire con gráficos claros y recibe alertas personalizadas.
+    - Meta Keywords: dashboard plantas, monitoreo IoT, gestión de cultivos, agricultura urbana, cuidado de plantas en casa, viveros sostenibles.
+    - Meta Author: PlantaE Team.
 
 ### 4.2.4. Searching Systems
+El sistema de búsqueda de PlantaE está diseñado para facilitar a los usuarios la localización rápida y eficiente de información sobre sus cultivos urbanos. El objetivo es evitar que el usuario se sienta perdido ante el volumen de datos provenientes de los sensores y garantizar que pueda acceder de forma intuitiva al estado de cada planta o conjunto de cultivos.
 
+- Usuarios domésticos: 
+    - Filtros dinámicos combinables:
+        - Tipo de planta.
+        - Estado de salud: Saludable, en riesgo, crítico.
+        - Variable ambiental: Humedad, temperatura, luminosidad, calidad del aire.
+        - Ubicación: Sala, balcón, terraza, huerto urbano.
+        - Nivel de cuidado requerido: Bajo, medio, alto.
+
+    - Tarjetas visuales:
+        - Imagen de la planta o ícono representativo.
+        - Nombre de la planta.
+        - Ubicación asignada.
+        - Estado actual resumido: Humedad baja, necesita riego.
+        - Indicadores visuales de color:
+            - Verde, planta saludable.
+            - Amarillo, requiere atención.
+            - Rojo, estado crítico.
+        
+- Viveros comerciales:
+    - Filtros por estado de cultivo.
+    - Filtro por variable crítica: Lotes con humedad baja, exceso de temperatura o deficiencia de luz.
+    - Búsqueda en histórico:
+        - Consultar registros por fecha.
+        - Estado previo o acciones realizadas.
+    - Iconos destacados para alertas, recomendaciones o novedades.
+  
 ### 4.2.5. Navigation Systems
+La navegación en PlantaE sigue un enfoque simple, intuitivo y responsivo:
+
+- Menú superior fijo: accesible en todo momento, con enlaces internos a cada sección de la landing page (#benefits, #how-it-works, #plans, #contact).
+
+- Smooth scrolling: desplazamiento fluido entre secciones para mejorar la experiencia del usuario.
+
+- Versión móvil: menú hamburguesa desplegable que mantiene los mismos enlaces clave.
+
+- Navegación secundaria (en la web app): incluye pestañas internas para “Mis Plantas”, “Alertas”, “Reportes” y “Configuración”.
+
+- Breadcrumbs (para viveros con múltiples lotes): facilitan ubicar la posición del usuario dentro del sistema.
+
+- Call To Action destacados: botones visibles en secciones clave que redirigen a registro o demo.
+
+Este sistema permite un recorrido ágil y consistente, evitando que el usuario se pierda entre la información y favoreciendo la interacción rápida con las funciones principales.
 
 ## 4.3. Landing Page UI Design
 
