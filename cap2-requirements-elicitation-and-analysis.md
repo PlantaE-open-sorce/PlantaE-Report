@@ -11,6 +11,22 @@
 ### 2.2.1 Diseño de entrevistas
 
 ### 2.2.2 Registro de entrevistas
+##### Segmento 1: Personas con plantas en casa
+
+##### Entrevista N°1: Cristhyan Bravo
+
+- Sexo: Maculino
+- Edad: 22 años
+- Direccion: Lima, Av Peru San Martin de Porres.
+
+  
+| **CRISTHYAN BRAVO** |
+|-----------------------|
+| <div align="center"><img src="assets/images/resources/Cristhyan-Entrevista1-Segmento1.jpg" alt="Entrevista Cristhyan Segmento 1" width="50%"></div> |
+| **Link de la Entrevista:**  [link] |
+| <div align="center"><b>Duración:</b> 00:04:38 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:02 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:04:34</div> |
+| Cristhyan Bravo, de 22 años, es estudiante universitario que trabaja y comentó que le gustan las plantas principalmente como elemento de ayuda psicologica dentro de su hogar. Señaló que sigue una rutina básica de cuidado, aunque a veces afronta problemas con el riego por la falta de organizacion en sus horarios. Nunca ha utilizado una aplicación o sistema digital para el mantenimiento de sus plantas, pero considera que la idea de una herramienta como PlantaE es muy atractiva, ya que le permitiría organizar mejor el riego y mejorar la salud de sus plantas. El entrevistado comento la perdida de plantas por un riego excesivo y que le resultaría valioso contar con recordatorios o alertas que lo apoyen en el cuidado. Asimismo, resaltó que una aplicación con consejos prácticos de cuidado y riego lo ayudaria a mantener sus plantas más saludables. |
+
 
 ### 2.2.3 Análisis de entrevistas
 
