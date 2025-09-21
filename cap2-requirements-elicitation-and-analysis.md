@@ -12,6 +12,35 @@
 
 ### 2.2.2 Registro de entrevistas
 
+##### Segmento 1: Hogares
+
+##### Entrevista N°2: Angélica Apaza
+
+* Sexo: Femenino
+* Edad: 22 años
+* Dirección: Breña, Lima
+
+| **ANGÉLICA APAZA**  |
+| --- |
+| <div align="center"><img src="assets/resources/Angelica-Entrevista2-Segmento1.jpg" alt="Entrevista Angélica Segmento 1" width="50%"></div> |
+| **Link de la Entrevista:** [Ver Entrevista](https://www.youtube.com/watch/Q3Tf_ZKPya4) |
+| <div align="center"><b>Duración:</b> 00:05:57     <b>Inicio:</b> 00:00:51     <b>Final:</b> 00:05:56</div> |
+| Angélica Apaza, 22 años, de Breña (Lima), comentó que en su hogar tiene alrededor de diez plantas, aunque reconoció que le resulta complicado mantener una rutina adecuada de cuidado debido al poco tiempo disponible y a que cada especie requiere atenciones distintas. Considera a las plantas tanto un pasatiempo como una responsabilidad y afirma que le aportan bienestar personal. Explicó que aprendió a cuidarlas por influencia de su madre y su hermana, y que organiza su riego con un calendario semanal, aunque en ocasiones se le olvida o riega de más, lo que ha ocasionado la pérdida de algunas plantas, incluyendo un cactus. Además, mencionó problemas frecuentes con plagas como las mosquitas blancas y que actualmente no usa ninguna aplicación o herramienta digital para apoyarse. Angélica considera que una app como PlantaE le sería bastante útil, especialmente si incluyera recordatorios de riego y recomendaciones contra plagas, ya que esto le permitiría mejorar su cuidado y hasta aumentar la cantidad de plantas que mantiene en casa. |
+
+##### Entrevista N°3: Fátima Florez
+
+* Sexo: Femenino
+* Edad: 20 años
+* Dirección: San Miguel, Lima
+
+| **FÁTIMA FLOREZ**| 
+| --- |
+| <div align="center"><img src="assets/resources/Fatima-Entrevista3-Segmento1.jpg" alt="Entrevista Fátima Segmento 1" width="50%"></div> |
+| **Link de la Entrevista:** [Ver Entrevista](https://www.youtube.com/watch/l0r7rcWU-Iw)|
+| <div align="center"><b>Duración:</b> 00:05:51     <b>Inicio:</b> 00:00:52     <b>Final:</b> 00:05:49</div>  |
+| Fátima Florez, 20 años, de San Miguel (Lima), indicó que en su casa cuida varias plantas, principalmente con fines decorativos, ya que le transmiten alegría al llegar a su hogar. Señaló que empezó hace algunos meses motivada por la idea de darle más color a su casa. Aunque disfruta tenerlas, admitió que a veces olvida regarlas debido a sus estudios o trabajo, lo que ha ocasionado la pérdida de algunas plantas. Intenta regarlas una vez por semana, pero a veces lo hace cada dos, y comentó que suele confundirse con las cantidades de agua, llegando a desperdiciar en ocasiones. Reconoció que la falta de tiempo es su mayor dificultad y que actualmente no utiliza ninguna aplicación, solo busca información en internet cuando la necesita. Fátima considera que una app como PlantaE sería muy útil para ella, sobre todo si incluyera alertas de riego, consejos personalizados y herramientas de ahorro de agua, ya que esto le daría mayor seguridad y le evitaría olvidos. Aseguró que con una aplicación así se sentiría más feliz y motivada a mantener sus plantas en mejores condiciones. |
+
+
 ### 2.2.3 Análisis de entrevistas
 
 ## 2.3. Needfinding
