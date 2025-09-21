@@ -37,7 +37,7 @@ Ser una referencia en soluciones tecnológicas para el cuidado de plantas y áre
 | **Código del Estudiante** | u20241a352                                                                          |
 | **Carrera**               | Ingeniería de Software                                                              |
 | **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
-| **Foto**                  | <div align="center"> <img src="assets/images/logos/julio_logo.jpg" alt="Julio" width="150" height="150"> </div> |
+| **Foto**                  | <div align="center"> <img src="assets/images/profiles/julio_logo.jpg" alt="Julio" width="150" height="150"> </div> |
 
 ## 1.2 Solution Profile
 
