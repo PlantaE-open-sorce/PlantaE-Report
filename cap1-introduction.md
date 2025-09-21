@@ -17,7 +17,13 @@ Digitalizar y optimizar el cuidado de cultivos urbanos mediante el uso de tecnol
 Ser una referencia en soluciones tecnológicas para el cuidado de plantas y áreas verdes, promoviendo un estilo de vida más sostenible y acercando la tecnología al servicio del bienestar ambiental y de las comunidades.
 
 ### 1.1.2 Perfiles de integrantes del equipo
----
+| **Integrante**            | **Apaza Bocanegra, Elizabeth Noelia**                                               |
+|---------------------------|-------------------------------------------------------------------------------------|
+| **Código del Estudiante** | u20231c197                                                                          |
+| **Carrera**               | Ingeniería de Sorftware                                                             |
+| **Descripción**           | Tengo 19 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal.|
+| **Foto**                  | <div align="center"> <img src="assets/images/profiles/Elizabeth_logo.png" alt="Elizabeth" width="150" height="150"> </div> |
+
 
 | **Integrante**            | **Contreras Leon, Flor De María**                                                   |
 |---------------------------|-------------------------------------------------------------------------------------|
@@ -26,14 +32,12 @@ Ser una referencia en soluciones tecnológicas para el cuidado de plantas y áre
 | **Descripción**           |  Mi nombre es Flor de María Contreras León y actualmente estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida y dedicada a mi formación profesional.Me apasiona la programación y la investigación, áreas en las que busco seguir aprendiendo y desarrollando nuevas habilidades. Aunque me considero una persona callada, siempre estoy atenta a los detalles, lo que me permite trabajar de manera cuidadosa y eficiente en mis proyectos. Asimismo, valoro el trabajo en equipo y creo que un entorno colaborativo y respetuoso es clave para alcanzar los mejores resultados. |
 | **Foto**                  | <div align="center"> <img src="assets/images/profiles/Flor_logo.jpeg" alt="Flor" width="150" height="150"> </div> |
 
-
-| **Integrante**            | **Apaza Bocanegra, Elizabeth Noelia**                                               |
+| **Integrante**            | **Guillen Galindo, Julio Adolfo**                                                   |
 |---------------------------|-------------------------------------------------------------------------------------|
-| **Código del Estudiante** | u20231c197                                                                                     |
-| **Carrera**               | Ingeniería de Sorftware                                                                                    |
-| **Descripción**           | Tengo 19 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal.|
-| **Foto**                  | <div align="center"> <img src="assets/images/profiles/Elizabeth_logo.png" alt="Elizabeth" width="150" height="150"> </div>  |
-
+| **Código del Estudiante** | u20241a352                                                                          |
+| **Carrera**               | Ingeniería de Software                                                              |
+| **Descripción**           | Actualmente curso la carrera de Ingeniería de Software en la UPC. Me considero una persona discreta, pero responsable y enfocada en cumplir los proyectos dentro de los plazos establecidos. Poseo conocimientos en C++ y Python; disfruto trabajar en equipo cuando existe colaboración y apoyo mutuo. Además, me motiva aplicar lo aprendido para afrontar los desafíos que puedan surgir en los próximos ciclos. |
+| **Foto**                  | <div align="center"> <img src="assets/images/profiles/julio_logo.jpg" alt="Julio" width="150" height="150"> </div> |
 
 ## 1.2 Solution Profile
 
@@ -86,5 +90,3 @@ A esto se suma que la FAO (2021) ha destacado la importancia de impulsar la agri
 |-------------------|------------------------|-----------------------|-------------------------|
 | **Personas (hogares urbanos que cuidan plantas)** | <ul><li>Sexo: Masculino y femenino.<br> </li><li>Edades: 25 – 55 años (adultos jóvenes y adultos interesados en la sostenibilidad y el cuidado del hogar).</ul> | <ul><li>Nacionalidad: Peruana.<br> </li><li>Zona geográfica: Principalmente zonas urbanas y periurbanas con acceso a áreas verdes o pequeños jardines.</ul> | <ul><li>Valoran la sostenibilidad y el cuidado responsable del medio ambiente.<br> </li><li>Interesados en tecnología accesible que facilite la vida cotidiana.<br> </li><li>Buscan practicidad y resultados visibles en el cuidado de sus plantas.<br> </li><li>Dispuestos a probar soluciones innovadoras si estas son fáciles de usar.</ul> |
 | **Viveros comerciales** | <ul><li>Sexo: Masculino y femenino (administradores, encargados y trabajadores de viveros).<br> </li><li>Edades: 20 – 60 años (jóvenes adultos y adultos con experiencia en manejo de cultivos o gestión de negocios de plantas).</ul> | <ul><li>Nacionalidad: Peruana.<br> </li><li>Zona geográfica: Áreas urbanas, periurbanas y rurales donde se concentran viveros, centros de producción y espacios agrícolas.</ul> | <ul><li>Buscan optimizar recursos (agua, energía, tiempo) para aumentar la rentabilidad.<br> </li><li>Interesados en soluciones tecnológicas que mejoren la eficiencia operativa.<br> </li><li>Valoran herramientas que brinden datos confiables y prácticos para la toma de decisiones.<br> </li><li>Dispuestos a pagar por soluciones que generen beneficios tangibles en productividad y sostenibilidad.</ul> |
-=======
-

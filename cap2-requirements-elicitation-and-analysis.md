@@ -242,7 +242,7 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 | **ALESSANDRO BRAVO** |
 |-----------------------|
 | <div align="center"><img src="assets/images/resources/Alessandro-Entrevista1-Segmento1.jpg" alt="Entrevista Alessandro Segmento 1" width="50%"></div> |
-| **Link de la Entrevista:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EUzFCY1QhetPtf3Bl_w7scMB4gbDOhsHCB9AJPYGOvNHQQ?e=fS5yBO |
+| **Link de la Entrevista:** [Ver Entrevista](https://upcedupe-my.sharepoint.com/personal/u202323243_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202323243%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202520%2D1asi0729%2D7380%2DPrime%2DFix%2Dneedfinding%2Dsprint%2D1%2Dsegmento%2D1%2Dentrevista%2D1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3e7b0ada%2D1360%2D4737%2Dbf3b%2Dc76da7f504f3) |
 | <div align="center"><b>Duración:</b> 00:05:57 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:10 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:05:54</div> |
 | Alessandro Bravo, de 20 años, es estudiante universitario y comentó que le gustan las plantas principalmente como elemento decorativo dentro de su hogar. Señaló que sigue una rutina básica de cuidado, aunque reconoce que sus plantas no siempre están en buen estado debido a que a veces olvida detalles importantes o no les dedica el tiempo suficiente. Nunca ha utilizado una aplicación o sistema digital para el mantenimiento de sus plantas, pero considera que la idea de una herramienta como PlantaE es muy atractiva, ya que le permitiría organizar mejor el riego y mejorar la salud de sus plantas. El entrevistado reconoció que en ocasiones ha perdido plantas por descuidos y que le resultaría valioso contar con recordatorios o alertas que lo apoyen en el cuidado. Asimismo, resaltó que una aplicación con consejos prácticos y funciones simples lo motivaría a mantener sus plantas más saludables. |
 
@@ -265,6 +265,7 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 * Edad: 20 años
 * Dirección: San Miguel, Lima
 
+
 | **FÁTIMA FLOREZ**| 
 | --- |
 | <div align="center"><img src="assets/images/resources/Fatima-Entrevista3-Segmento1.jpg" alt="Entrevista Fátima Segmento 1" width="50%"></div> |
@@ -272,8 +273,21 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 | <div align="center"><b>Duración:</b> 00:05:51     <b>Inicio:</b> 00:00:52     <b>Final:</b> 00:05:49</div>  |
 | Fátima Florez, 20 años, de San Miguel (Lima), indicó que en su casa cuida varias plantas, principalmente con fines decorativos, ya que le transmiten alegría al llegar a su hogar. Señaló que empezó hace algunos meses motivada por la idea de darle más color a su casa. Aunque disfruta tenerlas, admitió que a veces olvida regarlas debido a sus estudios o trabajo, lo que ha ocasionado la pérdida de algunas plantas. Intenta regarlas una vez por semana, pero a veces lo hace cada dos, y comentó que suele confundirse con las cantidades de agua, llegando a desperdiciar en ocasiones. Reconoció que la falta de tiempo es su mayor dificultad y que actualmente no utiliza ninguna aplicación, solo busca información en internet cuando la necesita. Fátima considera que una app como PlantaE sería muy útil para ella, sobre todo si incluyera alertas de riego, consejos personalizados y herramientas de ahorro de agua, ya que esto le daría mayor seguridad y le evitaría olvidos. Aseguró que con una aplicación así se sentiría más feliz y motivada a mantener sus plantas en mejores condiciones. |
 
-
 ##### Segmento 2: Viveros comerciales
+
+##### Entrevista N°1: Nicole Galindo
+
+- Sexo: Femenino
+- Edad: 25 años
+- Direccion: Lima, Av Peru Lima
+  
+|  **NICOLE GALINDO**   |
+|-----------------------|
+| <div align="center"><img src="assets/images/resources/Nicole-Entrevista1-Segmento2.png" alt="Entrevista Nicole Segmento 2" width="50%"></div> |
+| **Link de la Entrevista:**  [Ver Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a352_upc_edu_pe/Efp9hVrbxJlJrLzh9qgL_8YBjISOqp_twSZWEYOsiqxZ7g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5Viycw) |
+| <div align="center"><b>Duración:</b> 00:05:57 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:10 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:05:54</div> |
+| Nicole Galindo, de 25 años, es dueña de un vivero y comentó que le interesan las plantas no solo como elemento decorativo, sino también por su valor ambiental. Señaló que, aunque sigue una rutina básica de cuidado en su negocio, reconoce que a veces resulta difícil mantener todas las plantas en óptimas condiciones debido a la carga de trabajo y la falta de herramientas especializadas. Nunca ha utilizado una aplicación o sistema digital para la gestión de su vivero, pero considera que la idea de una herramienta como PlantaE es muy atractiva, ya que le permitiría organizar mejor los procesos de riego y mejorar la salud de sus plantas de forma más sostenible. La entrevistada reconoció que en ocasiones ha perdido plantas por descuidos y que le resultaría valioso contar con recordatorios o alertas para optimizar el cuidado. Asimismo, resaltó que una aplicación con consejos prácticos y funciones simples orientadas a la tecnología ambiental la motivaría a mantener su vivero más saludable y eficiente. |
+
 ##### Entrevista N°2: Duban Calderon
 
 - Sexo: Maculino
@@ -282,12 +296,11 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 
   
 | **DUBAN CALDERON** |
-|-----------------------|
-| <div align="center"><img src="assets/images/resources/Entrevista_Duban_Calderon.jpg" alt="Entrevista_Duban_Calderon" width="50%"></div> |
-| **Link de la Entrevista:**  https:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EbF5JomUEHpIqyj-l26peDMBv6jF_ej3mKvKFNR_L7mQ2g?e=PW2al2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+|-------------------|
+| <div align="center"><img src="assets/images/resources/Entrevista_Duban_Calderon.jpg" alt="Entrevista_Duban_Calderon" width="30%"></div> |
+| **Link de la Entrevista:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202323243_upc_edu_pe/EbF5JomUEHpIqyj-l26peDMBv6jF_ej3mKvKFNR_L7mQ2g?e=PW2al2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | <div align="center"><b>Duración:</b> 00:07:09 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:14 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:07:07</div> |
 | Duban Calderón, ingeniero agrónomo, lidera junto a su familia un vivero dedicado a la comercialización de plantas, un negocio que nació con la motivación de emprender en el rubro y ofrecer variedad y calidad a los clientes. Desde su experiencia profesional, señala que uno de los principales retos está en la gestión del riego y el mantenimiento, ya que suelen enfrentar problemas de exceso de humedad y cada planta requiere cuidados específicos, lo que impide aplicar un método único de gestión. Actualmente muchas de las tareas se organizan de forma manual, aunque considera clave optimizar el consumo de agua y asegurar la salud de las plantas. Destaca que una aplicación como PlantaE sería de gran apoyo para planificar mejor las actividades y, sobre todo, anticipar y controlar plagas, un aspecto crítico para la sostenibilidad del vivero. |
-=======
 
 
 ### 2.2.3 Análisis de entrevistas

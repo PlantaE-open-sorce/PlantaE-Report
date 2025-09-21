@@ -53,7 +53,7 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 
 **Paleta de Colores:**
 
-![Web-Palettacolores](assets/resources/Adobe_Fonts_color2.png)
+![Web-Palettacolores](assets/images/resources/Adobe_Fonts_color2.png)
 
 <p align="center">
   <img src="assets/images/resources/PaletaColoresWeb.jpg" alt="Web-Palettacolores2" width="400">
@@ -83,16 +83,79 @@ El diseño web es un componente esencial de PlantaE. Debe reflejar la esencia de
 ### 4.3.2. Landing Page Mock-up
 
 ## 4.4. Web Applications UX/UI Design
-
 ### 4.4.1. Web Applications Wireframes
+<p align="center">
+    <img src="assets/images/resources/web-applications-wireframes.png" alt="wireframes"/>
+</p>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+<p align="center">
+    <img src="assets/images/resources/web-applications-wireflow-diagrams.png" alt="wireframes-diagram"/>
+</p>
 
 ### 4.4.2. Web Applications Mock-ups
+<p align="center">
+    <img src="assets/images/resources/web-applications-mock-ups-1.png" alt="mock-ups-1"/>
+    <img src="assets/images/resources/web-applications-mock-ups-2.png" alt="mock-ups-2"/>
+</p>
 
 ### 4.4.3. Web Applications User Flow Diagrams
+<p align="center">
+    <img src="assets/images/resources/web-applications-user-flow-diagrams.png" alt="flow-diagrams"/>
+</p>
 
 ## 4.5. Web Applications Prototyping
+- Usuario aparece en el Dashboard, viendo las caracteristicas principales de sucontenido.
+
+    - El usuario inicia en el Dashboard:
+        <p align="center">
+            <img src="assets/images/resources/web-applications-prototyping-1.png" alt="prototyping-1"/>
+        </p>
+    
+    - El usuario accede al menu de opciones, donde puede cambiar el estilo de la pagina y el idioma que le guste:
+        <p align="center">
+           <img src="assets/images/resources/web-applications-prototyping-2.png" alt="prototyping-2"/>
+        </p>
+
+    - El usuario accede a su perfil, donde puede modificar su contraseña y la opcion de eliminar su cuenta:
+        <p align="center">
+           <img src="assets/images/resources/web-applications-prototyping-3.png" alt="prototyping-3"/>
+        </p>
+
+    - El usuario puede añadir la planta que desee, ingresando su nombre y el codigo del sensor IoT:
+        <p align="center">
+            <img src="assets/images/resources/web-applications-prototyping-4.png" alt="prototyping-4"/>
+        </p>
+
+    - Si todo es valido, se le mostrara la opcion de solicitud validada:
+        <p align="center">
+            <img src="assets/images/resources/web-applications-prototyping-5.png" alt="prototyping-5"/>
+        </p>
+
+    - Caso contrario, se le negara el registro y tendra que volver a añadir su planta:
+        <p align="center">
+            <img src="assets/images/resources/web-applications-prototyping-6.png" alt="prototyping-6"/>
+        </p>
+
+    - El usuario accede a la cantidad de plantas que posee, viendo la situacion de cada planta:
+        <p align="center">
+            <img src="assets/images/resources/web-applications-prototyping-7.png" alt="prototyping-7"/>
+        </p>
+
+    - El usuario accede a la caracteristica de cada planta, viendo sus funciones que ofrece el IoT:
+        <p align="center">
+            <img src="assets/images/resources/web-applications-prototyping-8.png" alt="prototyping-8"/>
+        </p>
+
+    - El usuario accede al registro de sus plantas con la posibilidad de descargar un reporte:
+          <p align="center">
+              <img src="assets/images/resources/web-applications-prototyping-9.png" alt="prototyping-9"/>
+          </p>
+
+    - El usuario pude ordenar su lista dependiendo del nombre, urgencia, sensor y situacion critica de la planta:
+          <p align="center">
+              <img src="assets/images/resources/web-applications-prototyping-10.png" alt="prototyping-10"/>
+          </p>
 
 ## 4.6. Domain-Driven Software Architecture
 
