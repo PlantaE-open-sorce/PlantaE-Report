@@ -494,7 +494,7 @@
 
 ## 3.2. Impact Mapping
 <div align="center">
-  <img src="assets/resources/impact-mapping.png" alt="Impact">
+  <img src="assets/images/impact-mapping.png" alt="Impact">
 </div>
 
 ## 3.3. Product Backlog
