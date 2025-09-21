@@ -161,8 +161,86 @@ Este sistema permite un recorrido ágil y consistente, evitando que el usuario s
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+A continuación, se presentan los wireframes de las principales secciones de la landing page. Cada imagen ilustra el diseño propuesto para las diferentes funcionalidades, flujos de navegación y elementos de interacción de la plataforma.
+
+Wireframe:
+
+En esta primera sección se presenta la pantalla Home de la landing page.
+
+<img src="assets/images/resources/home-wire.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de who are we:
+
+<img src="assets/images/resources/who-are-we-wire.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Services:
+
+<img src="assets/images/resources/services-wire.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Benefits:
+
+<img src="assets/images/resources/benefits-wire.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Testimonials:
+
+<img src="assets/images/resources/testimonials-wire.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Frequently Asked Questions:
+
+<img src="assets/images/resources/frequently-asked-questions-wire.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Contact:
+
+<img src="assets/images/resources/contact-wire.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Download:
+
+<img src="assets/images/resources/download-wire.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Footer:
+
+<img src="assets/images/resources/footer-wire.png" alt="wireframes"/>
+
 
 ### 4.3.2. Landing Page Mock-up
+
+Wireflow:
+
+En esta primera sección se presenta la pantalla Home de la landing page.
+
+<img src="assets/images/resources/home.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de who are we:
+
+<img src="assets/images/resources/who-are-we.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Services:
+
+<img src="assets/images/resources/services.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Benefits:
+
+<img src="assets/images/resources/benefits.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Testimonials:
+
+<img src="assets/images/resources/testimonials.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Frequently Asked Questions:
+
+<img src="assets/images/resources/frequently-asked-questions.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Contact:
+
+<img src="assets/images/resources/contact.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Download:
+
+<img src="assets/images/resources/download.png" alt="wireframes"/>
+
+Se presenta la sección de propuesta de Footer:
+
+<img src="assets/images/resources/footer.png" alt="wireframes"/>
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
