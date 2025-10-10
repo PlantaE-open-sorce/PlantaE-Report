@@ -5,11 +5,15 @@
 - El proyecto **PlantaE** permitió identificar la necesidad de soluciones tecnológicas accesibles para optimizar el cuidado de plantas y áreas verdes, especialmente en contextos urbanos donde el riego suele ser ineficiente.  
 - La propuesta basada en IoT demostró ser viable y con alto potencial de impacto social y ambiental, contribuyendo al uso responsable del agua y fomentando prácticas sostenibles.  
 - Las entrevistas y validaciones realizadas confirmaron el interés de los usuarios en una herramienta intuitiva, simple y confiable, tanto para hogares como para viveros.  
-- El trabajo grupal fortaleció la capacidad de análisis, diseño y desarrollo, además de potenciar las habilidades de comunicación, coordinación y aprendizaje colaborativo de los integrantes.  
+- El trabajo grupal fortaleció la capacidad de análisis, diseño y desarrollo, además de potenciar las habilidades de comunicación, coordinación y aprendizaje colaborativo de los integrantes.
+- Se reforzó la comprensión sobre la importancia de la experiencia de usuario (UX) y la interfaz de usuario (UI) como factores decisivos en la adopción de soluciones tecnológicas.
+- El trabajo colaborativo permitió una mejor distribución de roles, donde cada integrante aportó en el diseño, codificación y validación de componentes visuales, potenciando la eficiencia del equipo.
+- En general, el desarrollo del frontend evidenció que la simplicidad, la coherencia visual y la funcionalidad deben ser pilares en el diseño de aplicaciones tecnológicas sostenibles.
  
 ## Recomendaciones
 
 - Mantener una adecuada **organización de los tiempos** en cada fase del proyecto, estableciendo cronogramas realistas y priorizando tareas clave.  
 - Reforzar el proceso de validación con más usuarios, lo que permitirá obtener retroalimentación continua y mejorar la experiencia de uso.  
 - Explorar la posibilidad de alianzas con municipalidades, viveros u organizaciones ambientales para ampliar el alcance e impacto del proyecto.  
-- Seguir perfeccionando la interfaz y funcionalidades del sistema, priorizando siempre la usabilidad, la accesibilidad y la sostenibilidad como ejes centrales.  
+- Seguir perfeccionando la interfaz y funcionalidades del sistema, priorizando siempre la usabilidad, la accesibilidad y la sostenibilidad como ejes centrales.
+- Fomentar la actualización continua del equipo en tendencias de diseño frontend, garantizando que PlantaE mantenga una imagen moderna y competitiva.
