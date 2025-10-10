@@ -21,7 +21,7 @@ En esta sección el equipo establece los medios y esquema de organización que a
 
 A continuación se indican los URLs de los repositorios de GitHub para cada producto:
 
-- **Landing Page**: [https://shorturl.at/wOqID](https://github.com/PlantaE-open-sorce/PlantaE-landing)
+- **Landing Page**: https://github.com/PlantaE-open-sorce/PlantaE-landing
 
 #### GitFlow Workflow
 
@@ -62,8 +62,8 @@ Se utilizará el estándar de **Conventional Commits** para los mensajes de comm
 - **Indentación**: 2 espacios.
 - **Formato de archivos**: `.html`, `.css`, `.js`
 - **Estilo de código adoptado**:
-  - [W3Schools HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+  - https://www.w3schools.com/html/html5_syntax.asp
+  - https://google.github.io/styleguide/htmlcssguide.html
 
 ##### Nomenclatura:
 
