@@ -304,9 +304,39 @@ Despliegue y puesta en producción de la aplicación frontend
 | Miraval Pomalaya, Rodrigo Jesus        | RodMiraval            | C                      | C        | C        | L            |
 | Navarro Chinga, Antonio Jhair    | AntonioNavarro24 | C                      | C        | C        | C            | 
 
+#### 5.2.2.3 Sprint Backlog 2
 
+El propósito de este Sprint es crear, desarrollar y probar las secciones del frontend, asegurando una navegación intuitiva y el correcto funcionamiento de elementos clave. El objetivo es que los usuarios puedan interactuar fácilmente con la plataforma, aumentando su satisfacción y contribuyendo al logro de los objetivos del negocio.
 
-#### 5.2.2.3. Sprint Backlog 2.
+Enlace: https://trello.com/b/4aXdCQPO/plante-frontend
+
+![Sprint1-Trello.png](assets/images/Sprint2-Trello.png)
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Sprint Backlog 2.
+  </figcaption>
+
+| User Story ID | User Story Title                 | Task ID | Task Title                                         | Description                                                                                                        | Estimated (Hours) |   Assigned To   | Status |
+| :-----------: | :------------------------------: | :-----: | :------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------: | :-------------: | :----: |
+| US-01        | Acceso a la plataforma           | T-01    | Diseño de pantallas de registro e inicio de sesión | Diseñar formularios de registro e inicio de sesión con campos claros y estilo coherente al branding de PlantaE. | 3                 | Elizabeth Apaza | Done   | 
+| US-01        | Acceso a la plataforma           | T-02    | Implementación del formulario de inicio de sesión  | Programar la funcionalidad para ingresar credenciales y redirigir al dashboard.                                    | 3                 | Elizabeth Apaza | Done   |
+| US-01        | Acceso a la plataforma           | T-03    | Implementación del formulario de registro          | Programar la creación de cuentas con validaciones y confirmación visual de registro exitoso.                       | 4                 | Elizabeth Apaza | Done   |
+| US-02        | Recuperación de contraseña       | T-04    | Diseño de interfaz de recuperación                 | Crear la pantalla con campo de correo electrónico y botón de envío para restablecer contraseña.                    | 6                 | Antonio Navarro | Done   |
+| US-02        | Recuperación de contraseña       | T-05    | Implementación de funcionalidad de recuperación    | Integrar lógica de envío de correo y mensajes de confirmación visual.                                              | 6                 | Antonio Navarro | Done   |
+| US-07        | Gestión de perfil                | T-06    | Diseño del perfil del usuario                      | Diseñar la vista de perfil con campos editables (nombre, correo, idioma, notificaciones).                          | 3                 | Julio Guillen   | Done   |
+| US-07        | Gestión de perfil                | T-07    | Implementación de edición de perfil                | Programar la actualización de datos personales con validaciones.                                                   | 5                 | Julio Guillen   | Done   |
+| US-07        | Gestión de perfil                | T-08    | Implementación del cambio de idioma                | Agregar soporte multilenguaje (es/en) en el frontend usando un switch persistente.                                 | 5                 | Julio Guillen   | Done   |
+| US-08        | Alternar modo oscuro/claro       | T-09    | Diseño del botón de cambio de modo                 | Diseñar un toggle visual para activar el modo oscuro o claro.                                                      | 3                 | Flor Contreras  | Done   |
+| US-08        | Alternar modo oscuro/claro       | T-10    | Implementación de modo oscuro/claro                | Aplicar estilos dinámicos con CSS variables o framework (Tailwind, Bootstrap) para alternar entre temas.           | 3                 | Flor Contreras  | Done   |
+| US-04        | Alertas de cultivo               | T-11    | Diseño del componente de alertas                   | Crear una sección de notificaciones con iconos y colores distintivos por tipo de alerta.                           | 4                 | Rodrigo Miraval | Done   |
+| US-04        | Alertas de cultivo               | T-12    | Implementación de visualización de alertas         | Mostrar alertas en tiempo real (mock data o API simulada) con historial visual.                                    | 5                 | Rodrigo Miraval | Done   |
+| US-06        | Panel de métricas                | T-13    | Diseño del panel de gráficos                       | Diseñar interfaz visual para mostrar gráficos de humedad, temperatura y luz.                                       | 5                 | Flor Contreras  | Done   |
+| US-06        | Panel de métricas                | T-14    | Implementación de gráficos interactivos            | Integrar librería (Chart.js o Recharts) para mostrar datos dinámicos.                                              | 5                 | Flor Contreras  | Done   |
+| US-14        | Identificar plantas más críticas | T-15    | Diseño del panel de criticidad                     | Diseñar vista con lista ordenada de plantas según prioridad o nivel de riesgo.                                     | 6                 | Antonio Navarro | Done   |
+| US-14        | Identificar plantas más críticas | T-16    | Implementación de orden dinámico                   | Programar lógica para ordenar y destacar plantas críticas.                                                         | 5                 | Antonio Navarro | Done   |
+| US-30        | Selección de idioma              | T-17    | Diseño del selector de idioma                      | Diseñar el botón o dropdown de idioma en el header.                                                                | 4                 | Elizabeth Apaza | Done   |
+| US-30        | Selección de idioma              | T-18    | Persistencia de idioma en sesión                   | Mantener el idioma seleccionado mientras el usuario navega por la app.                                             | 4                 | Elizabeth Apaza | Done   |
+| US-31        | Optimización para escritorio     | T-19    | Diseño responsive de dashboard                     | Adaptar componentes visuales para pantallas grandes con diseño fluido.                                             | 6                 | Julio Guillen   | Done   |
+| US-31        | Optimización para escritorio     | T-20    | Pruebas de responsividad y UX                      | Verificar visualización en diferentes dispositivos (mobile, tablet, desktop).                                      | 5                 | Julio Guillen   | Done   |
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 **En esta sección se presenta la evidencia detallada del desarrollo alcanzado durante el Sprint 2, enfocado en la implementación de la Frontend Web Application de EcoTech utilizando Angular y TypeScript. Durante este segundo sprint, el equipo de EcoTech se concentró en desarrollar las interfaces de usuario principales que conectarán a los dos segmentos objetivo con las funcionalidades core de la plataforma.**
