@@ -329,6 +329,19 @@ Con esto queremos crear una aplicación que te brinde alertas, consejos y herram
 | <div align="center"><b>Duración:</b> 00:07:09 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:14 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:07:07</div> |
 | Duban Calderón, ingeniero agrónomo, lidera junto a su familia un vivero dedicado a la comercialización de plantas, un negocio que nació con la motivación de emprender en el rubro y ofrecer variedad y calidad a los clientes. Desde su experiencia profesional, señala que uno de los principales retos está en la gestión del riego y el mantenimiento, ya que suelen enfrentar problemas de exceso de humedad y cada planta requiere cuidados específicos, lo que impide aplicar un método único de gestión. Actualmente muchas de las tareas se organizan de forma manual, aunque considera clave optimizar el consumo de agua y asegurar la salud de las plantas. Destaca que una aplicación como PlantaE sería de gran apoyo para planificar mejor las actividades y, sobre todo, anticipar y controlar plagas, un aspecto crítico para la sostenibilidad del vivero. |
 
+##### Entrevista N°3: Fabrizio Pomalaya
+
+- Sexo: Maculino
+- Edad: 24 años
+- Direccion: Lima, Jr los yungas.
+
+  
+| **Fabrizio Pomalaya** |
+|-------------------|
+| <div align="center"><img src="assets/images/resources/Fabrizio-Entrevista3-Segmento2.png" alt="Entrevista_Duban_Calderon" width="30%"></div> |
+| **Link de la Entrevista:** https://upcedupe-my.sharepoint.com/personal/u20241a352_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20241a352_upc_edu_pe%2FDocuments%2FVideos%2FDesarrollo%20de%20Aplicaciones%20Open%20Source%2FSegmento%202%2F2025-10-10%2016-24-01.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.335bb95d-cd01-4e26-96ce-9082319d9fbe |
+| <div align="center"><b>Duración:</b> 00:04:51 &nbsp;&nbsp;&nbsp; <b>Inicio:</b> 00:00:01 &nbsp;&nbsp;&nbsp; <b>Final:</b> 00:04:51</div> |
+| Fabrizio Pomalaya, administrador del vivero, lidera junto a su familia un negocio que creció de un pequeño emprendimiento a una operación más técnica enfocada en áreas verdes. Señala que los principales retos están en la gestión del riego y mantenimiento, ya que el control manual y la falta de uniformidad en el riego generan pérdidas y mayores costos. Actualmente gran parte del trabajo se organiza de forma manual, por lo que considera esencial optimizar el consumo de agua y mejorar la planificación. Para él, una herramienta digital como PlantaE sería clave para automatizar el riego, monitorear el consumo y prevenir problemas de humedad o plagas, impulsando así la sostenibilidad del vivero. |
 
 ### 2.2.3. Análisis de entrevistas
 - ## Segmento objetivo #1: Personas (hogares urbanos que cuidan plantas)
