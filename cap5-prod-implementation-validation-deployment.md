@@ -238,3 +238,21 @@ Se guardaron los cambios para activar la publicación automática.
 **5- Se obtuvo y verificó la URL pública proporcionada por GitHub Pages.**
 
 ![Foto deployment step 5](assets/images/resources/link-github.png)
+
+### 5.2.1 Sprint 2
+
+#### 5.2.1.1. Sprint Planning 2
+
+#### 5.2.1.2 Aspect Leaders and Collaborators
+
+#### 5.2.1.3 Sprint Backlog 2
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+#### 5.2.1.5 Execution Evidence for Sprint Review
+
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
