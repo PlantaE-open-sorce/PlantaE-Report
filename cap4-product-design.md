@@ -103,9 +103,6 @@
 </p>
 
 #### 4.6.3. Software Architecture Components Diagrams
-<p align="center">
-    <img src="assets/images/diagrama_componentes.png" alt="Diagrama de Componentes Bounded Context"/>
-</p>
 
 - Bounded Context IAM
 
@@ -134,6 +131,10 @@
 </p>
 
 ### 4.6.4. Software Architecture Components Diagrams
+
+<p align="center">
+    <img src="assets/images/diagrama_componentes.png" alt="Diagrama de Componentes Bounded Context"/>
+</p>
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
