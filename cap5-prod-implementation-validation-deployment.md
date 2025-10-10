@@ -253,7 +253,7 @@ Enlace: https://trello.com/b/4aXdCQPO/plante-frontend
 
 ![Sprint1-Trello.png](assets/images/Sprint2-Trello.png)
 <figcaption style="font-size: 0.9em; color: #555;">
-    <strong>Figura 1:</strong> Sprint Backlog 1.
+    <strong>Figura 1:</strong> Sprint Backlog 2.
   </figcaption>
 
 | User Story ID | User Story Title                 | Task ID | Task Title                                         | Description                                                                                                        | Estimated (Hours) |   Assigned To   | Status |
