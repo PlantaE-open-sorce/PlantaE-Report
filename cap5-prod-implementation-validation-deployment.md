@@ -310,7 +310,7 @@ El propósito de este Sprint es crear, desarrollar y probar las secciones del fr
 
 Enlace: https://trello.com/b/4aXdCQPO/plante-frontend
 
-![Sprint1-Trello.png](assets/images/Sprint2-Trello.png)
+![Sprint1-Trello.png](assets/images/resources/Sprint2-Trello.png)
 <figcaption style="font-size: 0.9em; color: #555;">
     <strong>Figura 1:</strong> Sprint Backlog 2.
   </figcaption>
