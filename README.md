@@ -154,8 +154,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 |             <div align="center">Criterio específico</div>             |          <div align="center">Acciones Realizadas</div>            |          <div align="center">Conclusiones</div>            |
 |:---------------------------------------------------------------------:|-------------------------------------------------------------------|------------------------------------------------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | <ul><li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** En esta entrega se realizo entrevistas para conocer las necesidades del proyecto, aportando retroalimentación a los compañeros. </li><li>**Contreras Leon, Flor De María** <br> **TB1:** Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto, incluyendo Lean UX Problem Statements, Assumptions e Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, estableciendo una base conceptual sólida para estructurar el producto y asegurando que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo.  <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** Me encargué de informar a mi equipo sobre los porgremos que seguiríamos. Además, participé de forma activa en la revisión de los avances realizados por mis compañeros y colaboré en la preparación del projecto para las presentaciones. </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:** Estuvo atento en información del equipo de las actividades a seguir, colaborando en la preparación y exposición del proyecto. </ul> | <ul><li>**TB1:** Cada persona asumió sus tareas asignadas y se comunicó de forma directa, creando un ambiente de trabajo que impulsó la colaboración y mejoró el trabajo conjunto, aspecto fundamental en proyectos de equipo </li></ul> |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | <ul><li>**Apaza Bocanegra, Elizabeth Noelia** <br> **TB1:** Redacto el documento del avance, así como mensajes y graficos para que el equipo pudiera seguir los lineamientos establecidos. </li><li>**Contreras Leon, Flor De María** <br> **TB1:** Elaboré y lideré la redacción de secciones clave de la documentación del proyecto, incluyendo Lean UX Problem Statements, Assumptions e Hypothesis Statements, asegurando que la información estuviera clara y organizada. Esta labor permitió que el equipo comprendiera los problemas, supuestos e hipótesis del proyecto de manera consistente, facilitando la comunicación escrita efectiva entre todos los integrantes y asegurando un marco común de referencia. <br> </li><li>**Guillen Galindo, Julio Adolfo** <br> **TB1:** Contribuí en la definición de las pautas y lineamientos que nuestro equipo seguia durante el proceso. Además, estuve a cargo de la elaboración de los capítulos 3 y 4. </li><li>**Miraval Pomalaya, Rodrigo Jesus** <br> **TB1:** <br> </li><li>**Navarro Chinga, Antonio Jhair** <br> **TB1:** Participo en la definición de las pautas de nuestro equipo durante el desarrollo, aportando ideas para mejorar la metodología de trabajo con las metricas establecida. </ul> | <ul><li>**TB1:** Cada integrante asumió las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva que fomentó la confianza entre todos. Esto contribuyó a fortalecer el trabajo en equipo, un aspecto esencial para el éxito de los proyectos colaborativos. </li></ul> |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | <ul><li>**Apaza Bocanegra, Elizabeth Noelia:** <br> **TB1:** En esta entrega se realizo entrevistas para conocer las necesidades del proyecto, aportando retroalimentación a los compañeros. <br> **TP1:** Durante esta entrega, colaboré en la estructuración del repositorio del frontend y en la comprobación del correcto desempeño de los elementos visuales. Aseguré que la interfaz cumpliera con las guías acordadas por el equipo. </li><li>**Contreras Leon, Flor De María:** <br> **TB1:** Trabajé en equipo para proporcionar liderazgo al desarrollar secciones clave de la documentación del proyecto, incluyendo Lean UX Problem Statements, Assumptions e Hypothesis Statements. Estas actividades permitieron guiar al equipo en la definición clara de problemas, supuestos e hipótesis, estableciendo una base conceptual sólida para estructurar el producto y asegurando que todos los integrantes tuvieran un marco común de referencia para continuar con el desarrollo. <br> **TP1:**  Apoyé en la implementación de las vistas principales del frontend, verificando la integración de las rutas del sitio web y su coherencia con el diseño establecido. </li><li>**Guillen Galindo, Julio Adolfo:** <br> **TB1:** Me encargué de informar a mi equipo sobre los porgremos que seguiríamos. Además, participé de forma activa en la revisión de los avances realizados por mis compañeros y colaboré en la preparación del projecto para las presentaciones. <br> **TP1:** Durante esta etapa, me encargué de coordinar las reuniones de seguimiento del frontend, promoviendo la comunicación entre los miembros del equipo para resolver incidencias de despliegue. También presenté el avance del sprint al grupo, explicando los ajustes aplicados en la interfaz y garantizando la comprensión técnica de todos. </li><li>**Miraval Pomalaya, Rodrigo Jesus:** <br> **TB1:** En esta entrega colabore con la revision retroactiva de los avances de mis compañeros indicándoles que puntos de la documentación se podrían mejorar. Adicionalmente, realice entrevistas para dos segmentos objetivos. <br> **TP1:** Participé en la revisión funcional del frontend antes del despliegue, asegurando que las secciones principales respondieran a las necesidades detectadas en las entrevistas con usuarios. </li><li>**Navarro Chinga, Antonio Jhair:** <br> **TB1:** Estuvo atento en información del equipo de las actividades a seguir, colaborando en la preparación y exposición del proyecto. <br> **TP1:** Me ocupé de preparar el entorno de desarrollo del frontend y de realizar el despliegue inicial en la plataforma seleccionada. Además, resolví incidencias relacionadas con la carga de componentes. </ul> | <ul><li>**TB1:** Cada persona asumió sus tareas asignadas y se comunicó de forma directa, creando un ambiente de trabajo que impulsó la colaboración y mejoró el trabajo conjunto, aspecto fundamental en proyectos de equipo. </li><li> **TP1:** Durante esta entrega, el equipo demostró una comunicación fluida y efectiva, tanto en la coordinación técnica como en la revisión de avances. Cada integrante asumió un papel activo para garantizar el correcto despliegue del frontend, intercambiando observaciones claras y soluciones rápidas ante los desafíos del sprint. Esta interacción constante fortaleció la cohesión del grupo y mejoró la capacidad colectiva para presentar y argumentar resultados técnicos de manera profesional. </li></ul> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | <ul><li>**Apaza Bocanegra, Elizabeth Noelia:** <br> **TB1:** Redacto el documento del avance, así como mensajes y graficos para que el equipo pudiera seguir los lineamientos establecidos. <br> **TP1:** Redacté el apartado del Sprint 2, detallando las tareas priorizadas y los objetivos del equipo. También contribuí en las secciones grupales de documentación, donde se mostró la evidencia del desarrollo, despliegue y colaboración durante el sprint. </li><li>**Contreras Leon, Flor De María:** <br> **TB1:** Elaboré y lideré la redacción de secciones clave de la documentación del proyecto, incluyendo Lean UX Problem Statements, Assumptions e Hypothesis Statements, asegurando que la información estuviera clara y organizada. Esta labor permitió que el equipo comprendiera los problemas, supuestos e hipótesis del proyecto de manera consistente, facilitando la comunicación escrita efectiva entre todos los integrantes y asegurando un marco común de referencia. <br> **TP1:** Elaboré el Sprint Review, presentando la evidencia de los servicios implementados. Además, participé en la documentación conjunta sobre desarrollo, ejecución y despliegue del software. </li><li>**Guillen Galindo, Julio Adolfo:** <br> **TB1:** Contribuí en la definición de las pautas y lineamientos que nuestro equipo seguia durante el proceso. Además, estuve a cargo de la elaboración de los capítulos 3 y 4. <br> **TP1:** Redacté la planificación del Sprint 2, donde detallé los criterios de priorización y la distribución de tareas del equipo. </li><li>**Miraval Pomalaya, Rodrigo Jesus:** <br> **TB1:** Mantuve una comunicación activa y eficaz que fortaleció la confianza mutua. Esto mejoró el trabajo en equipo, un valor crucial para proyectos colaborativos. <br> **TP1:** Fui responsable de los tiempos estimados. Además, participé en la documentación compartida sobre desarrollo, ejecución y despliegue del software, resaltando el trabajo colaborativo del equipo. </li><li>**Navarro Chinga, Antonio Jhair:** <br> **TB1:** Participo en la definición de las pautas de nuestro equipo durante el desarrollo, aportando ideas para mejorar la metodología de trabajo con las metricas establecida. <br> **TP1:** Desarrollé la evidencia técnica de los servicios implementados y su funcionalidad. También intervine en la redacción grupal sobre el proceso de desarrollo, pruebas y despliegue del proyecto. </ul> | <ul><li>**TB1:** Cada integrante asumió las tareas que le fueron asignadas, manteniendo una comunicación constante y efectiva que fomentó la confianza entre todos. Esto contribuyó a fortalecer el trabajo en equipo, un aspecto esencial para el éxito de los proyectos colaborativos. </li><li> **TP1:** En esta fase, todos los miembros mantuvieron un nivel alto de compromiso con la documentación técnica, La colaboración en los apartados grupales permitió que el producto final reflejara en la organización del equipo. Gracias a ello, se logró una documentación completa, coherente y alineada con los objetivos del proyecto. </li></ul> |
+
 <hr>
 
 # Capítulo I: Introducción
@@ -1516,15 +1517,53 @@ Se presenta la sección de propuesta de Footer:
               <img src="assets/images/resources/web-applications-prototyping-10.png" alt="prototyping-10"/>
           </p>
 
-## 4.6. Domain-Driven Software Architecture
+### 4.6. Domain-Driven Software Architecture
 
-### 4.6.1. Design-Level Event Storming
+#### 4.6.1. Software Architecture Context Diagrams
 
-### 4.6.2. Software Architecture Context Diagram
+<p align="center">
+    <img src="assets/images/resources/diagrama_contexto.png" alt="Diagrama de Contexto"/>
+</p>
 
-### 4.6.3. Software Architecture Container Diagrams
+#### 4.6.2. Software Architecture Container Diagrams
+
+<p align="center">
+ <img src="assets/images/resources/diagrama_contenedores.png" alt="Diagrama de Contenedores"/>
+</p>
+
+#### 4.6.3. Software Architecture Components Diagrams
+
+- Bounded Context IAM
+
+<p align="center">
+    <img src="assets/images/resources/diagrama_componentes_iam.png" alt="Diagrama de Componentes IAM Bounded Context"/>
+</p>
+
+- Bounded Context Dashboard
+<p align="center">
+    <img src="assets/images/resources/diagrama_componentes_dashboard.png" alt="Diagrama de Componentes Dashboard Bounded Context"/>
+</p>
+
+- Bounded Context Add-Plants
+<p align="center">
+    <img src="assets/images/resources/diagrama_componentes_add-plants.png" alt="Diagrama de Componentes Add-Plants Bounded Context"/>
+</p>
+
+- Bounded Context Plants
+<p align="center">
+    <img src="assets/images/resources/diagrama_componentes_plants.png" alt="Diagrama de Componentes Plants Bounded Context"/>
+</p>
+
+- Bounded Context Monitoring
+<p align="center">
+    <img src="assets/images/resources/diagrama_componentes_monitoring.png" alt="Diagrama de Componentes Monitoring Bounded Context"/>
+</p>
 
 ### 4.6.4. Software Architecture Components Diagrams
+
+<p align="center">
+    <img src="assets/images/resources/diagrama_componentes.png" alt="Diagrama de Componentes Bounded Context"/>
+</p>
 
 ## 4.7. Software Object-Oriented Design
 
@@ -1778,6 +1817,298 @@ Se guardaron los cambios para activar la publicación automática.
 **5- Se obtuvo y verificó la URL pública proporcionada por GitHub Pages.**
 
 ![Foto deployment step 5](assets/images/resources/link-github.png)
+
+### 5.2.2. Sprint 2
+Se documenta el proceso de implementación, pruebas, documentación y despliegue del segundo Sprint, enfocado en la construcción de la Frontend Web Application de PlantaE. Este sprint se centró en desarrollar las interfaces de usuario principales utilizando Angular y TypeScript, asegurando una experiencia fluida y atractiva para ambos segmentos objetivo: dueños de plantas y viveros.
+
+#### 5.2.2.1. Sprint Planning 2.
+
+| Sprint #                             | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Date                                 | 2025-09-10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Time                                 | 19:00 pm (GMT-5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Location                             | Modalidad remota mediante la plataforma Discord                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Prepared By                          | Contreras Leon, Flor De María                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Attendees (to planning meeting)      | Apaza Bocanegra, Elizabeth Noelia / Contreras Leon, Flor De María / Guillen Galindo, Julio Adolfo / Miraval Pomalaya, Rodrigo Jesus / Navarro Chinga, Antonio Jhair                                                                                                                                                                                                                                                                                                                                                                          |
+| Sprint 0 Review Summary              | Dado que este es el sprint inicial, no se presenta un resumen del sprint anterior.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Sprint 0 Retrospective Summary       | Dado que este es el sprint inicial, no se presenta una retroalimentación del sprint anterior.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Sprint 1 Goal                        | Nos enfocamos en implementar la estructura principal y las funcionalidades clave de la landing page pública de PlantaE.<br />Creemos que esto aportará una percepción más sólida del producto y despertará mayor interés entre los usuarios potenciales, al comunicar de forma clara el valor y los beneficios de la plataforma.<br />Esto se confirmará cuando los visitantes puedan navegar de manera fluida por la página, comprendan fácilmente qué ofrece PlantaE y muestren intención de interactuar o registrarse. |
+| Sprint 1 Velocity                    | 18 puntos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Sum of Story Points                  | 18 puntos     
+
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) correspondiente al Sprint 2, enfocado en el desarrollo de los bounded contexts del backend y la implementación de la arquitectura de microservicios. Esta matriz define los roles, responsabilidades y nivel de participación de cada miembro del equipo durante el desarrollo de los Web Services RESTful.
+#### Aspectos Clave del Sprint 2
+Para el Sprint 2, se han identificado cuatro aspectos fundamentales que abarcan el desarrollo frontend completo:
+
+#### Frontend Development (Desarrollo de Interfaces)
+
+- Desarrollo de la aplicación web con Angular
+
+- Implementación de componentes, servicios, guards e interceptors
+
+- Creación de páginas y vistas principales
+
+#### UI/UX Implementation (Implementación de Diseño)
+
+- Traducción de wireframes y mockups a interfaces funcionales
+
+- Implementación de diseño responsive y adaptable
+
+- Optimización de la experiencia de usuario
+
+#### Navigation & Routing (Navegación y Enrutamiento)
+
+- Configuración del sistema de navegación entre páginas
+
+- Implementación de guards de autenticación y autorización
+
+- Definición de flujos de navegación para ambos segmentos de usuarios
+
+#### Integration & Deployment (Integración y Despliegue)Integration & Deployment (Integración y Despliegue)
+
+Integración con la Landing Page existente
+
+Configuración de variables de entorno y entornos
+
+Despliegue y puesta en producción de la aplicación frontend
+| Team Member (Last Name, First Name) | GitHub Username    | Frontend Development (L / C) | UI/UX Implementation (L / C) | Navigation & Routing (L / C) | Integration & Deployment (L / C) |
+| :---------------------------------- | :----------------- | :--------------------- | :------- | :------- | :----------- |
+| Apaza Bocanegra, Elizabeth Noelia | Elizabeth-Apaza     | L                      | C        | C        | C            | 
+| Contreras Leon, Flor De María                | FlorDeMa           | C                      | L        | C        | C            |
+| Guillen Galindo, Julio Adolfo	        | julio645         | C                      | C        | L        | C            |  
+| Miraval Pomalaya, Rodrigo Jesus        | RodMiraval            | C                      | C        | C        | L            |
+| Navarro Chinga, Antonio Jhair    | AntonioNavarro24 | C                      | C        | C        | C            | 
+
+#### 5.2.2.3 Sprint Backlog 2
+
+El propósito de este Sprint es crear, desarrollar y probar las secciones del frontend, asegurando una navegación intuitiva y el correcto funcionamiento de elementos clave. El objetivo es que los usuarios puedan interactuar fácilmente con la plataforma, aumentando su satisfacción y contribuyendo al logro de los objetivos del negocio.
+
+Enlace: https://trello.com/b/4aXdCQPO/plante-frontend
+
+![Sprint1-Trello.png](assets/images/resources/Sprint2-Trello.png)
+<figcaption style="font-size: 0.9em; color: #555;">
+    <strong>Figura 1:</strong> Sprint Backlog 2.
+  </figcaption>
+
+| User Story ID | User Story Title                 | Task ID | Task Title                                         | Description                                                                                                        | Estimated (Hours) |   Assigned To   | Status |
+| :-----------: | :------------------------------: | :-----: | :------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------: | :-------------: | :----: |
+| US-01        | Acceso a la plataforma           | T-01    | Diseño de pantallas de registro e inicio de sesión | Diseñar formularios de registro e inicio de sesión con campos claros y estilo coherente al branding de PlantaE. | 3                 | Elizabeth Apaza | Done   | 
+| US-01        | Acceso a la plataforma           | T-02    | Implementación del formulario de inicio de sesión  | Programar la funcionalidad para ingresar credenciales y redirigir al dashboard.                                    | 3                 | Elizabeth Apaza | Done   |
+| US-01        | Acceso a la plataforma           | T-03    | Implementación del formulario de registro          | Programar la creación de cuentas con validaciones y confirmación visual de registro exitoso.                       | 4                 | Elizabeth Apaza | Done   |
+| US-02        | Recuperación de contraseña       | T-04    | Diseño de interfaz de recuperación                 | Crear la pantalla con campo de correo electrónico y botón de envío para restablecer contraseña.                    | 6                 | Antonio Navarro | Done   |
+| US-02        | Recuperación de contraseña       | T-05    | Implementación de funcionalidad de recuperación    | Integrar lógica de envío de correo y mensajes de confirmación visual.                                              | 6                 | Antonio Navarro | Done   |
+| US-07        | Gestión de perfil                | T-06    | Diseño del perfil del usuario                      | Diseñar la vista de perfil con campos editables (nombre, correo, idioma, notificaciones).                          | 3                 | Julio Guillen   | Done   |
+| US-07        | Gestión de perfil                | T-07    | Implementación de edición de perfil                | Programar la actualización de datos personales con validaciones.                                                   | 5                 | Julio Guillen   | Done   |
+| US-07        | Gestión de perfil                | T-08    | Implementación del cambio de idioma                | Agregar soporte multilenguaje (es/en) en el frontend usando un switch persistente.                                 | 5                 | Julio Guillen   | Done   |
+| US-08        | Alternar modo oscuro/claro       | T-09    | Diseño del botón de cambio de modo                 | Diseñar un toggle visual para activar el modo oscuro o claro.                                                      | 3                 | Flor Contreras  | Done   |
+| US-08        | Alternar modo oscuro/claro       | T-10    | Implementación de modo oscuro/claro                | Aplicar estilos dinámicos con CSS variables o framework (Tailwind, Bootstrap) para alternar entre temas.           | 3                 | Flor Contreras  | Done   |
+| US-04        | Alertas de cultivo               | T-11    | Diseño del componente de alertas                   | Crear una sección de notificaciones con iconos y colores distintivos por tipo de alerta.                           | 4                 | Rodrigo Miraval | Done   |
+| US-04        | Alertas de cultivo               | T-12    | Implementación de visualización de alertas         | Mostrar alertas en tiempo real (mock data o API simulada) con historial visual.                                    | 5                 | Rodrigo Miraval | Done   |
+| US-06        | Panel de métricas                | T-13    | Diseño del panel de gráficos                       | Diseñar interfaz visual para mostrar gráficos de humedad, temperatura y luz.                                       | 5                 | Flor Contreras  | Done   |
+| US-06        | Panel de métricas                | T-14    | Implementación de gráficos interactivos            | Integrar librería (Chart.js o Recharts) para mostrar datos dinámicos.                                              | 5                 | Flor Contreras  | Done   |
+| US-14        | Identificar plantas más críticas | T-15    | Diseño del panel de criticidad                     | Diseñar vista con lista ordenada de plantas según prioridad o nivel de riesgo.                                     | 6                 | Antonio Navarro | Done   |
+| US-14        | Identificar plantas más críticas | T-16    | Implementación de orden dinámico                   | Programar lógica para ordenar y destacar plantas críticas.                                                         | 5                 | Antonio Navarro | Done   |
+| US-30        | Selección de idioma              | T-17    | Diseño del selector de idioma                      | Diseñar el botón o dropdown de idioma en el header.                                                                | 4                 | Elizabeth Apaza | Done   |
+| US-30        | Selección de idioma              | T-18    | Persistencia de idioma en sesión                   | Mantener el idioma seleccionado mientras el usuario navega por la app.                                             | 4                 | Elizabeth Apaza | Done   |
+| US-31        | Optimización para escritorio     | T-19    | Diseño responsive de dashboard                     | Adaptar componentes visuales para pantallas grandes con diseño fluido.                                             | 6                 | Julio Guillen   | Done   |
+| US-31        | Optimización para escritorio     | T-20    | Pruebas de responsividad y UX                      | Verificar visualización en diferentes dispositivos (mobile, tablet, desktop).                                      | 5                 | Julio Guillen   | Done   |
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+**En esta sección se presenta la evidencia detallada del desarrollo alcanzado durante el Sprint 2, enfocado en la implementación de la Frontend Web Application de EcoTech utilizando Angular y TypeScript. Durante este segundo sprint, el equipo de EcoTech se concentró en desarrollar las interfaces de usuario principales que conectarán a los dos segmentos objetivo con las funcionalidades core de la plataforma.**
+
+El desarrollo se llevó a cabo utilizando Angular como framework principal, junto con TypeScript para garantizar robustez en el código y HTML/CSS para la estructura y estilos. Se implementó una arquitectura de componentes reutilizables siguiendo las mejores prácticas de Angular, con separación clara entre componentes de presentación, servicios de lógica de negocio, guards de navegación e interceptors para manejo de HTTP.
+
+Las principales funcionalidades implementadas durante este sprint abarcan todas las interfaces necesarias para que tanto usuarios particulares como administradores de viveros puedan interactuar eficientemente con EcoTech. Se desarrollaron componentes modulares y reutilizables, implementando lazy loading para optimizar el rendimiento y una experiencia de usuario fluida y responsive.
+
+El trabajo de desarrollo se organizó siguiendo las mejores prácticas de desarrollo frontend, implementando componentes standalone según las nuevas recomendaciones de Angular, gestión de estado reactiva con RxJS, validaciones de formularios robustas y diseño responsive que funciona óptimamente en desktop, tablet y móvil.
+
+Se estableció la integración completa con la Landing Page existente, agregando enlaces directos que permiten a los usuarios navegar fluidamente desde la página de presentación hacia la aplicación web funcional. La configuración incluye internacionalización (i18n), cambio de tema dinámico y optimización de rendimiento con lazy loading.
+
+**Funcionalidades Implementadas con Operaciones CRUD**
+- **Sistema de autenticación completo**
+Login, registro y gestión de sesiones de usuarios.
+
+- **Gestión de perfiles de usuario**
+Edición de datos de perfil con validaciones en tiempo real.
+
+- **Gestión de plantas con avisos**
+Funcionalidad completa de agregar, listar, editar y eliminar plantas, incluyendo sistema de recordatorios.
+
+- **Módulo "Mis Plantas"**
+Visualización en lista y detalle de plantas asociadas a cada usuario.
+
+- **Panel de administración de plantas (plant-manage)**
+Interfaz para gestionar el inventario de plantas con operaciones CRUD.
+
+- **Página de inicio personalizada**
+Acceso rápido a opciones como configuración y dashboard principal.
+
+- **Integración unificada con la Landing Page**
+Navegación fluida entre la página de presentación y la aplicación web.
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+**Durante el Sprint 2, se logró la implementación exitosa y el despliegue de la Frontend Web Application de EcoTech, estableciendo una interfaz de usuario completa y funcional que conecta ambos segmentos objetivo con las funcionalidades principales de la plataforma.**
+
+**Principales logros del Sprint 2:**
+
+**Aplicación Web Semi Completa: **Se desarrolló parcialmente la aplicación de Angular con las páginas y componentes necesarios para ambos tipos de usuarios (usuarios particulares y administradores de viveros).
+
+**Experiencia de Usuario Optimizada:** Interfaces responsive e intuitivas que funcionan perfectamente en desktop, tablet y móvil con diseño consistente y accesible.
+
+**Sistema de Navegación Robusto:** Implementación completa de routing con guards de autenticación, lazy loading y protección de rutas sensibles.
+
+**Funcionalidades Interactivas:** Componentes dinámicos incluyendo calendarios de cuidados, filtros de búsqueda de plantas, dashboards de seguimiento y formularios con validaciones en tiempo real.
+
+**Integración con Landing Page:** Enlaces funcionales desde la landing page hacia la aplicación web, creando un flujo de usuario continuo y sin fricciones.
+
+**Funcionalidades implementadas y desplegadas:**
+
+**Sistema de Autenticación:** Login, registro y gestión de sesiones con validaciones completas
+
+**Gestión de Plantas:** CRUD para registro, edición y selección de plantas
+
+**Vista de Seguimiento:** Monitoreo en tiempo real del estado y cuidados de plantas
+
+**Sistema de Recordatorios:** Configuración y visualización de alertas para cuidados de plantas
+
+**Landing Page Actualizada:** Enlaces directos hacia la aplicación web desde la landing page
+
+
+**Screenshots de la aplicación en funcionamiento:**
+
+![Login de EcoTech](assets/images/resources/login.jpeg)
+Página de login para usuarios
+![Looger ](assets/images/resources/prelogin.jpeg)
+Página de registro para nuevos usuarios
+![Home ](assets/images/resources/home.jpeg)
+Página principal de la aplicación web con navegación y funcionalidades principales
+![Gestion ](assets/images/resources/gestionplantas.jpeg)
+Página de gestión de plantas
+![Estado ](assets/images/resources/plantas.jpeg)
+Página de vista para ver detalles de estado de una planta*
+![Home_vivero ](assets/images/resources/listado-plantas.jpeg)
+Panel de gestión para viveros con plantas registradas
+![Home_usuario ](assets/images/resources/profile.jpeg)
+Página de usuario
+
+**Enlaces de despliegue:
+**
+**Frontend Application: **
+**Landing Page: **
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+**Documentación Técnica – Sprint 2**
+
+Durante el **Sprint 2**, se desarrolló documentación técnica **comprehensiva** para la **Frontend Web Application** implementada.  
+La documentación incluye guías de componentes, patrones de diseño implementados y guías de mantenimiento para facilitar el desarrollo futuro y la colaboración del equipo.
+
+---
+**Documentación de Frontend generada**
+
+La aplicación cuenta con documentación completa que incluye:
+
+- **Especificación de componentes** con props y eventos soportados  
+- **Guías de estilo** y patrones de diseño implementados  
+- **Estructura de navegación** y configuración de rutas (*routing configuration*)  
+- **Validaciones de formularios** y manejo de errores  
+- **Guías de internacionalización** y cambio de tema  
+- **Ejemplos de uso** y casos de testing  
+
+---
+
+**Módulos principales documentados**
+
+**Authentication**
+**Componentes:** `Login`, `Register`  
+**Funcionalidades:** Inicio de sesión, registro, gestión de sesiones  
+
+---
+
+**User Management**
+**Componentes:** `Profile`, `EditProfile`, `UserDashboard`  
+**Funcionalidades:** Gestión de perfil, edición de datos, panel personal  
+
+---
+
+**Workshop Search**
+**Componentes:** `Search`, `Filter`, `WorkshopList`  
+**Funcionalidades:** Búsqueda avanzada, filtros dinámicos, resultados paginados  
+
+
+
+**Tracking Dashboard**
+**Componentes:** `TrackingState`, `NotificationView`, `ProgressBar`  
+**Funcionalidades:** Seguimiento en tiempo real, visualización de estados, notificaciones  
+
+**Evidencias de despliegue:**
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+**Organización Estratégica del Equipo**
+
+El trabajo se organizó de manera estratégica, asignando a cada miembro módulos específicos según sus fortalezas técnicas y experiencia:
+
+- **Apaza Bocanegra, Elizabeth Noelia** lideró el desarrollo del sistema de autenticación y modelos de seguridad, componentes críticos para la protección de datos de usuarios.  
+- **Contreras Leon, Flor De María** se especializó en el dashboard de resumen y gestión de datos agregados, enfocándose en la presentación de métricas clave para los usuarios.  
+- **Guillen Galindo, Julio Adolfo** desarrolló el núcleo del sistema de plantas, implementando los modelos y repositorios para la gestión del catálogo botánico.  
+- **Miraval Pomalaya, Rodrigo Jesus** implementó la gestión de perfiles de usuario, asegurando una experiencia personalizada y consistente.  
+- **Navarro Chinga, Antonio Jhair** desarrolló el sistema de configuraciones y preferencias, permitiendo la personalización de la aplicación.  
+
+---
+
+**Arquitectura Implementada para PLANT-CARE**
+
+**PRESENTATION**  
+- Log-in y perfil (`login`, `profile`, `register`)  
+- Inicio y opciones (`setting`, `dashboard`)  
+- Añadir plantas con avisos (`add-plant`)  
+- Mis plantas y detalles de plantas (`plant-list`, `plant-detail`)  
+- Gestión de plantas (`plant-manage`)  
+
+**GUARDS**  
+- Sistema de protección de rutas y autenticación  
+
+**COMPONENTS**  
+- Shell principal de la aplicación (`plant-care-shell`)  
+
+**INFRASTRUCTURE**  
+- `Auth-http` (Elizabeth)  
+- `Dashboard-http` (Flor)  
+- `Plant-http` (Julio)  
+- `Settings-http` (Antonio)  
+- `Profile-http` (Rodrigo)  
+
+**DOMAIN**  
+- `Auth.model` (Elizabeth)  
+- `Dashboard-summary.model` (Flor)  
+- `Plant.model`, `Plant-metrics.model`, `Plant-type.model` (Julio)  
+- `Settings.model` (Antonio)  
+- `User-profile.model` (Rodrigo)  
+
+**REPOSITORIES**  
+- `Auth.repository` (Elizabeth)  
+- `Dashboard.repository` (Flor)  
+- `Plant.repository` (Julio)  
+- `Settings.repository` (Antonio)  
+- `Profile.repository` (Rodrigo)  
+
+**APPLICATION**  
+- `Auth.facade` (Elizabeth)  
+- `Dashboard.facade` (Flor)  
+- `Plant.facade` (Julio)  
+- `Settings.facade` (Antonio)  
+- `Profile.facade` (Rodrigo)  
+
+---
+
+El **Sprint 2** consolidó al equipo como una unidad técnica cohesiva especializada en desarrollo frontend con **Angular**, estableciendo bases arquitectónicas sólidas para el módulo **PLANT-CARE** y sentando las bases para la integración futura con servicios backend.
 
 # Conclusiones y Recomendaciones
 
