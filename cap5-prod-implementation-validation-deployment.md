@@ -1,4 +1,4 @@
-# Capítulo V: Product Implementation, Validation & Deployment
+
 ### 5.2.2. Sprint 2
 Se documenta el proceso de implementación, pruebas, documentación y despliegue del segundo Sprint, enfocado en la construcción de la Frontend Web Application de PlantaE. Este sprint se centró en desarrollar las interfaces de usuario principales utilizando Angular y TypeScript, asegurando una experiencia fluida y atractiva para ambos segmentos objetivo: dueños de plantas y viveros.
 
