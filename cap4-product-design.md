@@ -93,44 +93,44 @@
 #### 4.6.1. Software Architecture Context Diagrams
 
 <p align="center">
-    <img src="assets/recursos/diagrama_contexto.png" alt="Diagrama de Contexto"/>
+    <img src="assets/images/diagrama_contexto.png" alt="Diagrama de Contexto"/>
 </p>
 
 #### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
- <img src="assets/recursos/diagrama_contenedores.png" alt="Diagrama de Contenedores"/>
+ <img src="assets/images/diagrama_contenedores.png" alt="Diagrama de Contenedores"/>
 </p>
 
 #### 4.6.3. Software Architecture Components Diagrams
 <p align="center">
-    <img src="assets/recursos/diagrama_componentes.png" alt="Diagrama de Componentes Bounded Context"/>
+    <img src="assets/images/diagrama_componentes.png" alt="Diagrama de Componentes Bounded Context"/>
 </p>
 
 - Bounded Context IAM
 
 <p align="center">
-    <img src="assets/recursos/diagrama_componentes_iam.png" alt="Diagrama de Componentes IAM Bounded Context"/>
+    <img src="assets/images/diagrama_componentes_iam.png" alt="Diagrama de Componentes IAM Bounded Context"/>
 </p>
 
 - Bounded Context Dashboard
 <p align="center">
-    <img src="assets/recursos/diagrama_componentes_dashboard.png" alt="Diagrama de Componentes Dashboard Bounded Context"/>
+    <img src="assets/images/diagrama_componentes_dashboard.png" alt="Diagrama de Componentes Dashboard Bounded Context"/>
 </p>
 
 - Bounded Context Add-Plants
 <p align="center">
-    <img src="assets/recursos/diagrama_componentes_add-plants.png" alt="Diagrama de Componentes Add-Plants Bounded Context"/>
+    <img src="assets/images/diagrama_componentes_add-plants.png" alt="Diagrama de Componentes Add-Plants Bounded Context"/>
 </p>
 
 - Bounded Context Plants
 <p align="center">
-    <img src="assets/recursos/diagrama_componentes_plants.png" alt="Diagrama de Componentes Plants Bounded Context"/>
+    <img src="assets/images/diagrama_componentes_plants.png" alt="Diagrama de Componentes Plants Bounded Context"/>
 </p>
 
 - Bounded Context Monitoring
 <p align="center">
-    <img src="assets/recursos/diagrama_componentes_monitoring.png" alt="Diagrama de Componentes Monitoring Bounded Context"/>
+    <img src="assets/images/diagrama_componentes_monitoring.png" alt="Diagrama de Componentes Monitoring Bounded Context"/>
 </p>
 
 ### 4.6.4. Software Architecture Components Diagrams
